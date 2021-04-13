@@ -23,13 +23,14 @@ If you are by any chance writing an x86 Emulator this can be useful to check if 
   }
  },
  ```
-- ```data``` The bytes of the encoded instruction used to execute.
-- ```inputs``` The data from the context used to execute the instruction. This will always use the biggest register size, this ensures that all bits are tested regardless of operand form.
+- ```data``` Bytes of the encoded instruction used to execute.
+- ```inputs``` Hex encoded data from the context used to execute the instruction.
 - ```instr``` Readable form of the executed instruction.
-- ```outputs``` The data from the context after executing the instruction.
+- ```outputs``` Hex encoded data from the context after executing the instruction.
 ### Gotchas
+Registers always have the full size regardless of the operand size, so even if the instruction is ```sub ax, 1``` you should set the full contents of ```rax```, this also ensures no bits are accidentally missed.
 When registers like (E/R)IP/(E/R)SP are in the outputs it will always have it in the inputs aswell. To simplify testing you can use this to measure the distance of the values for when you can not emulate at the specific memory address, so instead of comparing the concrete value you should compare the distance from input to output.
-When ```flags``` are in the inputs or outputs this refers to CPU ```EFlags``` or ```RFlags```
+When ```flags``` are in the ```inputs``` or ```outputs``` this refers to CPU ```EFlags``` or ```RFlags```
 
 ## NOTE
 This is not the complete instruction set and it may lack a few specific flags/inputs. The tool used to generate this data is trying
