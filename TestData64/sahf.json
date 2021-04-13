@@ -1,0 +1,62 @@
+[
+ {
+  "data": "9E",
+  "inputs": {
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "sahf",
+  "outputs": {
+   "flags": 213,
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9E",
+  "inputs": {
+   "rax": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "sahf",
+  "outputs": {
+   "flags": 85,
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9E",
+  "inputs": {
+   "rax": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "sahf",
+  "outputs": {
+   "flags": 85,
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9E",
+  "inputs": {
+   "rax": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "sahf",
+  "outputs": {
+   "flags": 80,
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9E",
+  "inputs": {
+   "rax": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "sahf",
+  "outputs": {
+   "flags": 213,
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

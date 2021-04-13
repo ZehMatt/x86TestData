@@ -1,0 +1,24 @@
+[
+ {
+  "data": "F5",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "cmc",
+  "outputs": {
+   "flags": 1,
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F5",
+  "inputs": {
+   "flags": 1,
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "cmc",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

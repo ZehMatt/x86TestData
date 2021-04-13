@@ -1,0 +1,12 @@
+[
+ {
+  "data": "D9FB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fsincos",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

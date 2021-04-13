@@ -1,0 +1,22 @@
+[
+ {
+  "data": "DDE9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fucomp st0, st1",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "DDE9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fucomp st0, st1",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

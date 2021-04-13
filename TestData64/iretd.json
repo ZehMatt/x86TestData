@@ -1,0 +1,24 @@
+[
+ {
+  "data": "CF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "iretd",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "CF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "iretd",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

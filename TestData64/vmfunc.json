@@ -1,0 +1,13 @@
+[
+ {
+  "data": "0F01D4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "vmfunc",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

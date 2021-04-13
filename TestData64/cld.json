@@ -1,0 +1,12 @@
+[
+ {
+  "data": "FC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "cld",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

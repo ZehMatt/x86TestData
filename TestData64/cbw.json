@@ -1,0 +1,14 @@
+[
+ {
+  "data": "6698",
+  "inputs": {
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "cbw",
+  "outputs": {
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

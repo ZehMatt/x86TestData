@@ -1,0 +1,12 @@
+[
+ {
+  "data": "D9FA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fsqrt",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "data": "D9F4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fxtract",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

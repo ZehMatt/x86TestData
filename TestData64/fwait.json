@@ -1,0 +1,44 @@
+[
+ {
+  "data": "9BDBE2",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fwait",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9BDBE3",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fwait",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9BDFE0",
+  "inputs": {
+   "rax": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fwait",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9B",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fwait",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

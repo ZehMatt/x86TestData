@@ -1,0 +1,12 @@
+[
+ {
+  "data": "DBE2",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fnclex",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

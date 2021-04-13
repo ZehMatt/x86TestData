@@ -1,0 +1,22 @@
+[
+ {
+  "data": "DEC1",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "faddp st1, st0",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "DEC1",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "faddp st1, st0",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

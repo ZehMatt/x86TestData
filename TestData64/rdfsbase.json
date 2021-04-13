@@ -1,0 +1,356 @@
+[
+ {
+  "data": "F30FAEC0",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase eax",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAEC1",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase ecx",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAEC2",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase edx",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAEC3",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase ebx",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAEC4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "rdfsbase esp",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0000000000000000"
+  }
+ },
+ {
+  "data": "F30FAEC5",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase ebp",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAEC6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase esi",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "F30FAEC7",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase edi",
+  "outputs": {
+   "rdi": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC0",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r8d",
+  "outputs": {
+   "r8": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC1",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r9d",
+  "outputs": {
+   "r9": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC2",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r10d",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC3",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r11d",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r12d",
+  "outputs": {
+   "r12": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC5",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r13d",
+  "outputs": {
+   "r13": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r14d",
+  "outputs": {
+   "r14": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC7",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r15d",
+  "outputs": {
+   "r15": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC0",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase rax",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC1",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase rcx",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC2",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase rdx",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC3",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase rbx",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "rdfsbase rsp",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0000000000000000"
+  }
+ },
+ {
+  "data": "F3480FAEC5",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase rbp",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase rsi",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "F3480FAEC7",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase rdi",
+  "outputs": {
+   "rdi": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC0",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r8",
+  "outputs": {
+   "r8": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC1",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r9",
+  "outputs": {
+   "r9": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC2",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r10",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC3",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r11",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r12",
+  "outputs": {
+   "r12": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC5",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r13",
+  "outputs": {
+   "r13": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r14",
+  "outputs": {
+   "r14": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC7",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdfsbase r15",
+  "outputs": {
+   "r15": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

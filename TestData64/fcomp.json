@@ -1,0 +1,22 @@
+[
+ {
+  "data": "D8D9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fcomp st0, st1",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "D8D9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fcomp st0, st1",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

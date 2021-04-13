@@ -1,0 +1,13 @@
+[
+ {
+  "data": "FD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "std",
+  "outputs": {
+   "flags": 1024,
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

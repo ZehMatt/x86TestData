@@ -1,0 +1,24 @@
+[
+ {
+  "data": "0F07",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "sysret",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0F07",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "sysret",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

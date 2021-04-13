@@ -1,0 +1,22 @@
+[
+ {
+  "data": "DEF9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fdivp st1, st0",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "DEF9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fdivp st1, st0",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

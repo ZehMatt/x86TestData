@@ -1,0 +1,14 @@
+[
+ {
+  "data": "0F31",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdtsc",
+  "outputs": {
+   "rax": "2FEE946000000000",
+   "rdx": "E4800A0000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

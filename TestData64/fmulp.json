@@ -1,0 +1,22 @@
+[
+ {
+  "data": "DEC9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fmulp st1, st0",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "DEC9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fmulp st1, st0",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

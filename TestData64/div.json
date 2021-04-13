@@ -1,0 +1,1088 @@
+[
+ {
+  "data": "F6F0",
+  "inputs": {
+   "rax": "0100000000000080",
+   "rdx": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div al",
+  "outputs": {
+   "rax": "0100000000000080",
+   "rdx": "00000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F6F1",
+  "inputs": {
+   "rax": "0200000000000000",
+   "rcx": "0300000000000000",
+   "rdx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div cl",
+  "outputs": {
+   "rax": "0002000000000000",
+   "rcx": "0300000000000000",
+   "rdx": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F6F2",
+  "inputs": {
+   "rax": "9979825A00000000",
+   "rdx": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div dl",
+  "outputs": {
+   "rax": "7A8D825A00000000",
+   "rdx": "FEFFFF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F6F3",
+  "inputs": {
+   "rax": "FFFFFF8F00000000",
+   "rbx": "FEFFFFFFFFFFFF7F",
+   "rdx": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div bl",
+  "outputs": {
+   "flags": 65536,
+   "rax": "FFFFFF8F00000000",
+   "rbx": "FEFFFFFFFFFFFF7F",
+   "rdx": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F6F4",
+  "inputs": {
+   "rax": "0300000000000000",
+   "rdx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div ah",
+  "outputs": {
+   "flags": 65536,
+   "rax": "0300000000000000",
+   "rdx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F6F5",
+  "inputs": {
+   "rax": "FF7F000000000000",
+   "rcx": "0080000000000000",
+   "rdx": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div ch",
+  "outputs": {
+   "rax": "FF7F000000000000",
+   "rcx": "0080000000000000",
+   "rdx": "2828282800000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F6F6",
+  "inputs": {
+   "rax": "32F304B500000000",
+   "rdx": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div dh",
+  "outputs": {
+   "rax": "F42604B500000000",
+   "rdx": "FEFFFFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F6F7",
+  "inputs": {
+   "rax": "81FFFFFFFFFFFFFF",
+   "rbx": "0000000000000000",
+   "rdx": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div bh",
+  "outputs": {
+   "flags": 65536,
+   "rax": "81FFFFFFFFFFFFFF",
+   "rbx": "0000000000000000",
+   "rdx": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "40F6F4",
+  "inputs": {
+   "rax": "0080000000000000",
+   "rdx": "2828282800000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "div spl",
+  "outputs": {
+   "flags": 65536,
+   "rax": "0080000000000000",
+   "rdx": "2828282800000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  }
+ },
+ {
+  "data": "40F6F5",
+  "inputs": {
+   "rax": "0500008000000000",
+   "rbp": "0700008000000000",
+   "rdx": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div bpl",
+  "outputs": {
+   "rax": "0005008000000000",
+   "rbp": "0700008000000000",
+   "rdx": "0600008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "40F6F6",
+  "inputs": {
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rdx": "0000000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0100000000000000"
+  },
+  "instr": "div sil",
+  "outputs": {
+   "flags": 65536,
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rdx": "0000000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0100000000000000"
+  }
+ },
+ {
+  "data": "40F6F7",
+  "inputs": {
+   "rax": "2828282800000000",
+   "rdi": "5050505000000000",
+   "rdx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div dil",
+  "outputs": {
+   "rax": "8028282800000000",
+   "rdi": "5050505000000000",
+   "rdx": "CC3C412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F0",
+  "inputs": {
+   "r8": "0100000000000080",
+   "rax": "FFFFFFFFFFFFFF7F",
+   "rdx": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r8b",
+  "outputs": {
+   "flags": 65536,
+   "r8": "0100000000000080",
+   "rax": "FFFFFFFFFFFFFF7F",
+   "rdx": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F1",
+  "inputs": {
+   "r9": "0800000000000000",
+   "rax": "0600000000000000",
+   "rdx": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r9b",
+  "outputs": {
+   "r9": "0800000000000000",
+   "rax": "0006000000000000",
+   "rdx": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F2",
+  "inputs": {
+   "r10": "0300008000000000",
+   "rax": "0100008000000000",
+   "rdx": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r10b",
+  "outputs": {
+   "r10": "0300008000000000",
+   "rax": "0001008000000000",
+   "rdx": "0200008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F3",
+  "inputs": {
+   "r11": "80FFFFFFFFFFFFFF",
+   "rax": "0180FFFFFFFFFFFF",
+   "rdx": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r11b",
+  "outputs": {
+   "flags": 65536,
+   "r11": "80FFFFFFFFFFFFFF",
+   "rax": "0180FFFFFFFFFFFF",
+   "rdx": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F4",
+  "inputs": {
+   "r12": "FF7F000000000000",
+   "rax": "9900000000000000",
+   "rdx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r12b",
+  "outputs": {
+   "r12": "FF7F000000000000",
+   "rax": "0099000000000000",
+   "rdx": "FE7F000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F5",
+  "inputs": {
+   "r13": "32F304B500000000",
+   "rax": "0800008000000000",
+   "rdx": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r13b",
+  "outputs": {
+   "r13": "32F304B500000000",
+   "rax": "0008008000000000",
+   "rdx": "FFFFFF8F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F6",
+  "inputs": {
+   "r14": "0400000000000000",
+   "rax": "0200000000000000",
+   "rdx": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r14b",
+  "outputs": {
+   "r14": "0400000000000000",
+   "rax": "0002000000000000",
+   "rdx": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F6F7",
+  "inputs": {
+   "r15": "FFFFFF7F00000000",
+   "rax": "9979825A00000000",
+   "rdx": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r15b",
+  "outputs": {
+   "r15": "FFFFFF7F00000000",
+   "rax": "7A13825A00000000",
+   "rdx": "FEFFFF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66F7F0",
+  "inputs": {
+   "rax": "00000080FFFFFFFF",
+   "rdx": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div ax",
+  "outputs": {
+   "flags": 65536,
+   "rax": "00000080FFFFFFFF",
+   "rdx": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66F7F1",
+  "inputs": {
+   "rax": "0300000000000000",
+   "rcx": "0400000000000000",
+   "rdx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div cx",
+  "outputs": {
+   "flags": 65536,
+   "rax": "0300000000000000",
+   "rcx": "0400000000000000",
+   "rdx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66F7F2",
+  "inputs": {
+   "rax": "FEFFFF7F00000000",
+   "rdx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div dx",
+  "outputs": {
+   "flags": 65536,
+   "rax": "FEFFFF7F00000000",
+   "rdx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66F7F3",
+  "inputs": {
+   "rax": "32F304B500000000",
+   "rbx": "FFFFFFFFFFFFFF7F",
+   "rdx": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div bx",
+  "outputs": {
+   "rax": "FFFF04B500000000",
+   "rbx": "FFFFFFFFFFFFFF7F",
+   "rdx": "31F3FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66F7F4",
+  "inputs": {
+   "rax": "0400000000000000",
+   "rdx": "0500000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "div sp",
+  "outputs": {
+   "rax": "0500000000000000",
+   "rdx": "6422000000000000",
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  }
+ },
+ {
+  "data": "66F7F5",
+  "inputs": {
+   "rax": "0080000000000000",
+   "rbp": "CC3C412D00000000",
+   "rdx": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div bp",
+  "outputs": {
+   "rax": "18A9000000000000",
+   "rbp": "CC3C412D00000000",
+   "rdx": "E020282800000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66F7F6",
+  "inputs": {
+   "rax": "FEFFFFFFFFFFFF7F",
+   "rdx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000000000000080"
+  },
+  "instr": "div si",
+  "outputs": {
+   "flags": 65536,
+   "rax": "FEFFFFFFFFFFFF7F",
+   "rdx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000000000000080"
+  }
+ },
+ {
+  "data": "66F7F7",
+  "inputs": {
+   "rax": "0500000000000000",
+   "rdi": "0700000000000000",
+   "rdx": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div di",
+  "outputs": {
+   "rax": "6EDB000000000000",
+   "rdi": "0700000000000000",
+   "rdx": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F0",
+  "inputs": {
+   "r8": "0200008000000000",
+   "rax": "0000008000000000",
+   "rdx": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r8w",
+  "outputs": {
+   "r8": "0200008000000000",
+   "rax": "0080008000000000",
+   "rdx": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F1",
+  "inputs": {
+   "r9": "7FFFFFFFFFFFFFFF",
+   "rax": "0080FFFFFFFFFFFF",
+   "rdx": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r9w",
+  "outputs": {
+   "r9": "7FFFFFFFFFFFFFFF",
+   "rax": "4280FFFFFFFFFFFF",
+   "rdx": "4221FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F2",
+  "inputs": {
+   "r10": "FE7F000000000000",
+   "rax": "8000000000000000",
+   "rdx": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r10w",
+  "outputs": {
+   "r10": "FE7F000000000000",
+   "rax": "3201000000000000",
+   "rdx": "E402000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F3",
+  "inputs": {
+   "r11": "FFFFFF8F00000000",
+   "rax": "0700008000000000",
+   "rdx": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r11w",
+  "outputs": {
+   "r11": "FFFFFF8F00000000",
+   "rax": "0800008000000000",
+   "rdx": "0F00008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F4",
+  "inputs": {
+   "r12": "0300000000000000",
+   "rax": "0100000000000000",
+   "rdx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r12w",
+  "outputs": {
+   "r12": "0300000000000000",
+   "rax": "ABAA000000000000",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F5",
+  "inputs": {
+   "r13": "FEFFFF7F00000000",
+   "rax": "5050505000000000",
+   "rdx": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r13w",
+  "outputs": {
+   "r13": "FEFFFF7F00000000",
+   "rax": "9A79505000000000",
+   "rdx": "8443825A00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F6",
+  "inputs": {
+   "r14": "01000080FFFFFFFF",
+   "rax": "0100000000000080",
+   "rdx": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r14w",
+  "outputs": {
+   "r14": "01000080FFFFFFFF",
+   "rax": "0100000000000080",
+   "rdx": "00000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "6641F7F7",
+  "inputs": {
+   "r15": "7E00000000000000",
+   "rax": "0800000000000000",
+   "rdx": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r15w",
+  "outputs": {
+   "r15": "7E00000000000000",
+   "rax": "0C43000000000000",
+   "rdx": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F7F0",
+  "inputs": {
+   "rax": "0300008000000000",
+   "rdx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div eax",
+  "outputs": {
+   "flags": 65536,
+   "rax": "0300008000000000",
+   "rdx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F7F1",
+  "inputs": {
+   "rax": "00000080FFFFFFFF",
+   "rcx": "01000080FFFFFFFF",
+   "rdx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div ecx",
+  "outputs": {
+   "flags": 65536,
+   "rax": "00000080FFFFFFFF",
+   "rcx": "01000080FFFFFFFF",
+   "rdx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F7F2",
+  "inputs": {
+   "rax": "2100000000000000",
+   "rdx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div edx",
+  "outputs": {
+   "flags": 65536,
+   "rax": "2100000000000000",
+   "rdx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F7F3",
+  "inputs": {
+   "rax": "FEFFFF7F00000000",
+   "rbx": "0000008000000000",
+   "rdx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div ebx",
+  "outputs": {
+   "rax": "FEFFFFFF00000000",
+   "rbx": "0000008000000000",
+   "rdx": "FEFFFF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F7F4",
+  "inputs": {
+   "rax": "01000080FFFFFFFF",
+   "rdx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "div esp",
+  "outputs": {
+   "flags": 65536,
+   "rax": "01000080FFFFFFFF",
+   "rdx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  }
+ },
+ {
+  "data": "F7F5",
+  "inputs": {
+   "rax": "0400000000000000",
+   "rbp": "0600000000000000",
+   "rdx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div ebp",
+  "outputs": {
+   "rax": "565555D500000000",
+   "rbp": "0600000000000000",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F7F6",
+  "inputs": {
+   "rax": "FFFFFF7F00000000",
+   "rdx": "0000008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0100008000000000"
+  },
+  "instr": "div esi",
+  "outputs": {
+   "rax": "FFFFFFFF00000000",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0100008000000000"
+  }
+ },
+ {
+  "data": "F7F7",
+  "inputs": {
+   "rax": "FF7FFFFFFFFFFFFF",
+   "rdi": "0180FFFFFFFFFFFF",
+   "rdx": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div edi",
+  "outputs": {
+   "rax": "FFFFFFFF00000000",
+   "rdi": "0180FFFFFFFFFFFF",
+   "rdx": "0000FFFF00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F0",
+  "inputs": {
+   "r8": "9900000000000000",
+   "rax": "7F00000000000000",
+   "rdx": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r8d",
+  "outputs": {
+   "r8": "9900000000000000",
+   "rax": "D7802BD600000000",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F1",
+  "inputs": {
+   "r9": "0800008000000000",
+   "rax": "0600008000000000",
+   "rdx": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r9d",
+  "outputs": {
+   "r9": "0800008000000000",
+   "rax": "FFFFFFFF00000000",
+   "rdx": "0E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F2",
+  "inputs": {
+   "r10": "0200000000000000",
+   "rax": "0000000000000000",
+   "rdx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r10d",
+  "outputs": {
+   "r10": "0200000000000000",
+   "rax": "0000008000000000",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F3",
+  "inputs": {
+   "r11": "9979825A00000000",
+   "rax": "CC3C412D00000000",
+   "rdx": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r11d",
+  "outputs": {
+   "r11": "9979825A00000000",
+   "rax": "5C5929E300000000",
+   "rdx": "D058962500000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F4",
+  "inputs": {
+   "r12": "00000080FFFFFFFF",
+   "rax": "0000000000000080",
+   "rdx": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r12d",
+  "outputs": {
+   "r12": "00000080FFFFFFFF",
+   "rax": "0200000000000000",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F5",
+  "inputs": {
+   "r13": "2100000000000000",
+   "rax": "0700000000000000",
+   "rdx": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r13d",
+  "outputs": {
+   "r13": "2100000000000000",
+   "rax": "E1830F3E00000000",
+   "rdx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F6",
+  "inputs": {
+   "r14": "0400008000000000",
+   "rax": "0200008000000000",
+   "rdx": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r14d",
+  "outputs": {
+   "r14": "0400008000000000",
+   "rax": "FFFFFFFF00000000",
+   "rdx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "41F7F7",
+  "inputs": {
+   "r15": "81FFFFFFFFFFFFFF",
+   "rax": "7FFFFFFFFFFFFFFF",
+   "rdx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r15d",
+  "outputs": {
+   "r15": "81FFFFFFFFFFFFFF",
+   "rax": "FFFFFFFF00000000",
+   "rdx": "00FFFFFF00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "48F7F0",
+  "inputs": {
+   "rax": "FE7F000000000000",
+   "rdx": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div rax",
+  "outputs": {
+   "flags": 65536,
+   "rax": "FE7F000000000000",
+   "rdx": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "48F7F1",
+  "inputs": {
+   "rax": "0300008000000000",
+   "rcx": "0400008000000000",
+   "rdx": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div rcx",
+  "outputs": {
+   "flags": 65536,
+   "rax": "0300008000000000",
+   "rcx": "0400008000000000",
+   "rdx": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "48F7F2",
+  "inputs": {
+   "rax": "80FFFFFFFFFFFFFF",
+   "rdx": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div rdx",
+  "outputs": {
+   "flags": 65536,
+   "rax": "80FFFFFFFFFFFFFF",
+   "rdx": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "48F7F3",
+  "inputs": {
+   "rax": "2100000000000000",
+   "rbx": "7F00000000000000",
+   "rdx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div rbx",
+  "outputs": {
+   "rax": "FE7EBFDFEFF7FBFD",
+   "rbx": "7F00000000000000",
+   "rdx": "1F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "48F7F4",
+  "inputs": {
+   "rax": "0400008000000000",
+   "rdx": "0500008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "div rsp",
+  "outputs": {
+   "rax": "FD7ACF0BF267F700",
+   "rdx": "648B24BA68000000",
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  }
+ },
+ {
+  "data": "48F7F5",
+  "inputs": {
+   "rax": "01000080FFFFFFFF",
+   "rbp": "0080FFFFFFFFFFFF",
+   "rdx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div rbp",
+  "outputs": {
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rbp": "0080FFFFFFFFFFFF",
+   "rdx": "0180FF7FFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "48F7F6",
+  "inputs": {
+   "rax": "7E00000000000000",
+   "rdx": "7F00000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "8000000000000000"
+  },
+  "instr": "div rsi",
+  "outputs": {
+   "rax": "00000000000000FE",
+   "rdx": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "8000000000000000"
+  }
+ },
+ {
+  "data": "48F7F7",
+  "inputs": {
+   "rax": "0500008000000000",
+   "rdi": "0700008000000000",
+   "rdx": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div rdi",
+  "outputs": {
+   "rax": "1C000000FEFFFFFF",
+   "rdi": "0700008000000000",
+   "rdx": "41FFFF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F0",
+  "inputs": {
+   "r8": "0100000000000000",
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rdx": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r8",
+  "outputs": {
+   "r8": "0100000000000000",
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F1",
+  "inputs": {
+   "r9": "5050505000000000",
+   "rax": "2828282800000000",
+   "rdx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r9",
+  "outputs": {
+   "r9": "5050505000000000",
+   "rax": "CBF13FD0CAF13F90",
+   "rdx": "B8282D1900000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F2",
+  "inputs": {
+   "r10": "0100000000000080",
+   "rax": "FFFFFFFFFFFFFF7F",
+   "rdx": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r10",
+  "outputs": {
+   "r10": "0100000000000080",
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F3",
+  "inputs": {
+   "r11": "0800000000000000",
+   "rax": "0600000000000000",
+   "rdx": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r11",
+  "outputs": {
+   "r11": "0800000000000000",
+   "rax": "00000000000000E0",
+   "rdx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F4",
+  "inputs": {
+   "r12": "0300008000000000",
+   "rax": "0100008000000000",
+   "rdx": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r12",
+  "outputs": {
+   "r12": "0300008000000000",
+   "rax": "0C000000FEFFFFFF",
+   "rdx": "DDFFFF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F5",
+  "inputs": {
+   "r13": "80FFFFFFFFFFFFFF",
+   "rax": "0180FFFFFFFFFFFF",
+   "rdx": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r13",
+  "outputs": {
+   "r13": "80FFFFFFFFFFFFFF",
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rdx": "817FFFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F6",
+  "inputs": {
+   "r14": "FF7F000000000000",
+   "rax": "9900000000000000",
+   "rdx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r14",
+  "outputs": {
+   "r14": "FF7F000000000000",
+   "rax": "F0FFF7FFFBFFFDFF",
+   "rdx": "8900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "49F7F7",
+  "inputs": {
+   "r15": "32F304B500000000",
+   "rax": "0800008000000000",
+   "rdx": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "div r15",
+  "outputs": {
+   "r15": "32F304B500000000",
+   "rax": "C47B2A489B91A5CB",
+   "rdx": "C0C7289100000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

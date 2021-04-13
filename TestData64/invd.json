@@ -1,0 +1,13 @@
+[
+ {
+  "data": "0F08",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "invd",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

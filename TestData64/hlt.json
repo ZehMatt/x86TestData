@@ -1,0 +1,13 @@
+[
+ {
+  "data": "F4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "hlt",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

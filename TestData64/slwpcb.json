@@ -1,0 +1,388 @@
+[
+ {
+  "data": "8FE97812C8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb eax",
+  "outputs": {
+   "flags": 65536,
+   "rax": "1700000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb ecx",
+  "outputs": {
+   "flags": 65536,
+   "rcx": "FFFFFFFF00000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812CA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb edx",
+  "outputs": {
+   "flags": 65536,
+   "rdx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812CB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb ebx",
+  "outputs": {
+   "flags": 65536,
+   "rbx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "slwpcb esp",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  }
+ },
+ {
+  "data": "8FE97812CD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb ebp",
+  "outputs": {
+   "flags": 65536,
+   "rbp": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb esi",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0200000000000000"
+  }
+ },
+ {
+  "data": "8FE97812CF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb edi",
+  "outputs": {
+   "flags": 65536,
+   "rdi": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r8d",
+  "outputs": {
+   "flags": 65536,
+   "r8": "3061D3EFF77F0000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r9d",
+  "outputs": {
+   "flags": 65536,
+   "r9": "47CDB8305C020000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812CA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r10d",
+  "outputs": {
+   "flags": 65536,
+   "r10": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812CB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r11d",
+  "outputs": {
+   "flags": 65536,
+   "r11": "40F83C7284000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r12d",
+  "outputs": {
+   "flags": 65536,
+   "r12": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812CD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r13d",
+  "outputs": {
+   "flags": 65536,
+   "r13": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r14d",
+  "outputs": {
+   "flags": 65536,
+   "r14": "403FB8305C020000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812CF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r15d",
+  "outputs": {
+   "flags": 65536,
+   "r15": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb rax",
+  "outputs": {
+   "flags": 65536,
+   "rax": "1700000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb rcx",
+  "outputs": {
+   "flags": 65536,
+   "rcx": "FFFFFFFF00000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812CA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb rdx",
+  "outputs": {
+   "flags": 65536,
+   "rdx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812CB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb rbx",
+  "outputs": {
+   "flags": 65536,
+   "rbx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "slwpcb rsp",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  }
+ },
+ {
+  "data": "8FE9F812CD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb rbp",
+  "outputs": {
+   "flags": 65536,
+   "rbp": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb rsi",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0200000000000000"
+  }
+ },
+ {
+  "data": "8FE9F812CF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb rdi",
+  "outputs": {
+   "flags": 65536,
+   "rdi": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r8",
+  "outputs": {
+   "flags": 65536,
+   "r8": "3061D3EFF77F0000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r9",
+  "outputs": {
+   "flags": 65536,
+   "r9": "47CDB8305C020000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812CA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r10",
+  "outputs": {
+   "flags": 65536,
+   "r10": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812CB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r11",
+  "outputs": {
+   "flags": 65536,
+   "r11": "40F83C7284000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r12",
+  "outputs": {
+   "flags": 65536,
+   "r12": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812CD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r13",
+  "outputs": {
+   "flags": 65536,
+   "r13": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r14",
+  "outputs": {
+   "flags": 65536,
+   "r14": "403FB8305C020000",
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812CF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "slwpcb r15",
+  "outputs": {
+   "flags": 65536,
+   "r15": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

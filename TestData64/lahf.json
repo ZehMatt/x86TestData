@@ -1,0 +1,140 @@
+[
+ {
+  "data": "9F",
+  "inputs": {
+   "rax": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "rax": "2802282800000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 1,
+   "rax": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 1,
+   "rax": "CC03412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 1,
+   "rax": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 1,
+   "rax": "0103008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 5,
+   "rax": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 5,
+   "rax": "0707008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 5,
+   "rax": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 5,
+   "rax": "0007000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 21,
+   "rax": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 21,
+   "rax": "0117FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 21,
+   "rax": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 21,
+   "rax": "0117000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 85,
+   "rax": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 85,
+   "rax": "0757000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 85,
+   "rax": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 85,
+   "rax": "9957000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "9F",
+  "inputs": {
+   "flags": 213,
+   "rax": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "lahf",
+  "outputs": {
+   "flags": 213,
+   "rax": "50D7505000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "data": "0F01D6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "xtest",
+  "outputs": {
+   "flags": 64,
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

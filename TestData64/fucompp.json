@@ -1,0 +1,12 @@
+[
+ {
+  "data": "DAE9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fucompp",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

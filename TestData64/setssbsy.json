@@ -1,0 +1,13 @@
+[
+ {
+  "data": "F30F01E8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "setssbsy",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

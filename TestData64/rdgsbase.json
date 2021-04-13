@@ -1,0 +1,356 @@
+[
+ {
+  "data": "F30FAEC8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase eax",
+  "outputs": {
+   "rax": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAEC9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase ecx",
+  "outputs": {
+   "rcx": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAECA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase edx",
+  "outputs": {
+   "rdx": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAECB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase ebx",
+  "outputs": {
+   "rbx": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAECC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "rdgsbase esp",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0070537200000000"
+  }
+ },
+ {
+  "data": "F30FAECD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase ebp",
+  "outputs": {
+   "rbp": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F30FAECE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase esi",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0070537200000000"
+  }
+ },
+ {
+  "data": "F30FAECF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase edi",
+  "outputs": {
+   "rdi": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r8d",
+  "outputs": {
+   "r8": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAEC9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r9d",
+  "outputs": {
+   "r9": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAECA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r10d",
+  "outputs": {
+   "r10": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAECB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r11d",
+  "outputs": {
+   "r11": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAECC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r12d",
+  "outputs": {
+   "r12": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAECD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r13d",
+  "outputs": {
+   "r13": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAECE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r14d",
+  "outputs": {
+   "r14": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3410FAECF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r15d",
+  "outputs": {
+   "r15": "0070537200000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase rax",
+  "outputs": {
+   "rax": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAEC9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase rcx",
+  "outputs": {
+   "rcx": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAECA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase rdx",
+  "outputs": {
+   "rdx": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAECB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase rbx",
+  "outputs": {
+   "rbx": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAECC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "rdgsbase rsp",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0070537284000000"
+  }
+ },
+ {
+  "data": "F3480FAECD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase rbp",
+  "outputs": {
+   "rbp": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3480FAECE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase rsi",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0070537284000000"
+  }
+ },
+ {
+  "data": "F3480FAECF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase rdi",
+  "outputs": {
+   "rdi": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r8",
+  "outputs": {
+   "r8": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAEC9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r9",
+  "outputs": {
+   "r9": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAECA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r10",
+  "outputs": {
+   "r10": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAECB",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r11",
+  "outputs": {
+   "r11": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAECC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r12",
+  "outputs": {
+   "r12": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAECD",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r13",
+  "outputs": {
+   "r13": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAECE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r14",
+  "outputs": {
+   "r14": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3490FAECF",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "rdgsbase r15",
+  "outputs": {
+   "r15": "0070537284000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "data": "0F01DC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "stgi",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

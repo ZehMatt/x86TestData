@@ -1,0 +1,12 @@
+[
+ {
+  "data": "D9E9",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "fldl2t",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "data": "F8",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "clc",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

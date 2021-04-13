@@ -1,0 +1,12 @@
+[
+ {
+  "data": "0F77",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "emms",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]

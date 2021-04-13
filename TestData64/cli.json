@@ -1,0 +1,24 @@
+[
+ {
+  "data": "FA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "cli",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "F3FAFA",
+  "inputs": {
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "cli",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

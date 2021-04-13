@@ -1,0 +1,386 @@
+[
+ {
+  "data": "8FE97812C0",
+  "inputs": {
+   "rax": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb eax",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C1",
+  "inputs": {
+   "rcx": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb ecx",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C2",
+  "inputs": {
+   "rdx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb edx",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C3",
+  "inputs": {
+   "rbx": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb ebx",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "llwpcb esp",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C5",
+  "inputs": {
+   "rbp": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb ebp",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0700008000000000"
+  },
+  "instr": "llwpcb esi",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE97812C7",
+  "inputs": {
+   "rdi": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb edi",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C0",
+  "inputs": {
+   "r8": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r8d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C1",
+  "inputs": {
+   "r9": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r9d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C2",
+  "inputs": {
+   "r10": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r10d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C3",
+  "inputs": {
+   "r11": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r11d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C4",
+  "inputs": {
+   "r12": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r12d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C5",
+  "inputs": {
+   "r13": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r13d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C6",
+  "inputs": {
+   "r14": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r14d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC97812C7",
+  "inputs": {
+   "r15": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r15d",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C0",
+  "inputs": {
+   "rax": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb rax",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C1",
+  "inputs": {
+   "rcx": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb rcx",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C2",
+  "inputs": {
+   "rdx": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb rdx",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C3",
+  "inputs": {
+   "rbx": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb rbx",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "llwpcb rsp",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C5",
+  "inputs": {
+   "rbp": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb rbp",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "81FFFFFFFFFFFFFF"
+  },
+  "instr": "llwpcb rsi",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FE9F812C7",
+  "inputs": {
+   "rdi": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb rdi",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C0",
+  "inputs": {
+   "r8": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r8",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C1",
+  "inputs": {
+   "r9": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r9",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C2",
+  "inputs": {
+   "r10": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r10",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C3",
+  "inputs": {
+   "r11": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r11",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C4",
+  "inputs": {
+   "r12": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r12",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C5",
+  "inputs": {
+   "r13": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r13",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C6",
+  "inputs": {
+   "r14": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r14",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ },
+ {
+  "data": "8FC9F812C7",
+  "inputs": {
+   "r15": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "llwpcb r15",
+  "outputs": {
+   "flags": 65536,
+   "rip": "E607C9EFF77F0000"
+  }
+ }
+]

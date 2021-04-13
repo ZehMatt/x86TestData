@@ -1,0 +1,10288 @@
+[
+ {
+  "data": "660FB6C0",
+  "inputs": {
+   "rax": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, al",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C8",
+  "inputs": {
+   "rax": "0100000000000000",
+   "rcx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, al",
+  "outputs": {
+   "rcx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D0",
+  "inputs": {
+   "rax": "0300000000000000",
+   "rdx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, al",
+  "outputs": {
+   "rdx": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D8",
+  "inputs": {
+   "rax": "0500000000000000",
+   "rbx": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, al",
+  "outputs": {
+   "rbx": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E0",
+  "inputs": {
+   "rax": "0700000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, al",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "07003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6E8",
+  "inputs": {
+   "rax": "0800000000000000",
+   "rbp": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, al",
+  "outputs": {
+   "rbp": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F0",
+  "inputs": {
+   "rax": "7E00000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "7F00000000000000"
+  },
+  "instr": "movzx si, al",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "7E00000000000000"
+  }
+ },
+ {
+  "data": "660FB6F8",
+  "inputs": {
+   "rax": "8000000000000000",
+   "rdi": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, al",
+  "outputs": {
+   "rdi": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C0",
+  "inputs": {
+   "r8": "FF7F000000000000",
+   "rax": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, al",
+  "outputs": {
+   "r8": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C8",
+  "inputs": {
+   "r9": "2828282800000000",
+   "rax": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, al",
+  "outputs": {
+   "r9": "0000282800000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D0",
+  "inputs": {
+   "r10": "5050505000000000",
+   "rax": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, al",
+  "outputs": {
+   "r10": "CC00505000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D8",
+  "inputs": {
+   "r11": "FEFFFF7F00000000",
+   "rax": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, al",
+  "outputs": {
+   "r11": "9900FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E0",
+  "inputs": {
+   "r12": "0000008000000000",
+   "rax": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, al",
+  "outputs": {
+   "r12": "FF00008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E8",
+  "inputs": {
+   "r13": "0200008000000000",
+   "rax": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, al",
+  "outputs": {
+   "r13": "0100008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F0",
+  "inputs": {
+   "r14": "0400008000000000",
+   "rax": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, al",
+  "outputs": {
+   "r14": "0300008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F8",
+  "inputs": {
+   "r15": "0600008000000000",
+   "rax": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, al",
+  "outputs": {
+   "r15": "0500008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C1",
+  "inputs": {
+   "rax": "0700008000000000",
+   "rcx": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, cl",
+  "outputs": {
+   "rax": "0800008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C9",
+  "inputs": {
+   "rcx": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, cl",
+  "outputs": {
+   "rcx": "FF00FF8F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D1",
+  "inputs": {
+   "rcx": "32F304B500000000",
+   "rdx": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, cl",
+  "outputs": {
+   "rdx": "3200FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D9",
+  "inputs": {
+   "rbx": "0000000000000080",
+   "rcx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, cl",
+  "outputs": {
+   "rbx": "FF00000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E1",
+  "inputs": {
+   "rcx": "0100000000000080",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, cl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "01003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6E9",
+  "inputs": {
+   "rbp": "01000080FFFFFFFF",
+   "rcx": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, cl",
+  "outputs": {
+   "rbp": "00000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F1",
+  "inputs": {
+   "rcx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0080FFFFFFFFFFFF"
+  },
+  "instr": "movzx si, cl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FF00FFFFFFFFFFFF"
+  }
+ },
+ {
+  "data": "660FB6F9",
+  "inputs": {
+   "rcx": "0180FFFFFFFFFFFF",
+   "rdi": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, cl",
+  "outputs": {
+   "rdi": "0100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C1",
+  "inputs": {
+   "r8": "81FFFFFFFFFFFFFF",
+   "rcx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, cl",
+  "outputs": {
+   "r8": "8000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C9",
+  "inputs": {
+   "r9": "0000000000000000",
+   "rcx": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, cl",
+  "outputs": {
+   "r9": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D1",
+  "inputs": {
+   "r10": "0200000000000000",
+   "rcx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, cl",
+  "outputs": {
+   "r10": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D9",
+  "inputs": {
+   "r11": "0400000000000000",
+   "rcx": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, cl",
+  "outputs": {
+   "r11": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E1",
+  "inputs": {
+   "r12": "0600000000000000",
+   "rcx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, cl",
+  "outputs": {
+   "r12": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E9",
+  "inputs": {
+   "r13": "0800000000000000",
+   "rcx": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, cl",
+  "outputs": {
+   "r13": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F1",
+  "inputs": {
+   "r14": "7E00000000000000",
+   "rcx": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, cl",
+  "outputs": {
+   "r14": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F9",
+  "inputs": {
+   "r15": "8000000000000000",
+   "rcx": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, cl",
+  "outputs": {
+   "r15": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C2",
+  "inputs": {
+   "rax": "9900000000000000",
+   "rdx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, dl",
+  "outputs": {
+   "rax": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6CA",
+  "inputs": {
+   "rcx": "FF7F000000000000",
+   "rdx": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, dl",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D2",
+  "inputs": {
+   "rdx": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, dl",
+  "outputs": {
+   "rdx": "2800282800000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6DA",
+  "inputs": {
+   "rbx": "5050505000000000",
+   "rdx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, dl",
+  "outputs": {
+   "rbx": "CC00505000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E2",
+  "inputs": {
+   "rdx": "9979825A00000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, dl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "99003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6EA",
+  "inputs": {
+   "rbp": "FFFFFF7F00000000",
+   "rdx": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, dl",
+  "outputs": {
+   "rbp": "FE00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F2",
+  "inputs": {
+   "rdx": "0000008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0100008000000000"
+  },
+  "instr": "movzx si, dl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000008000000000"
+  }
+ },
+ {
+  "data": "660FB6FA",
+  "inputs": {
+   "rdi": "0300008000000000",
+   "rdx": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, dl",
+  "outputs": {
+   "rdi": "0200008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C2",
+  "inputs": {
+   "r8": "0500008000000000",
+   "rdx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, dl",
+  "outputs": {
+   "r8": "0400008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6CA",
+  "inputs": {
+   "r9": "0700008000000000",
+   "rdx": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, dl",
+  "outputs": {
+   "r9": "0600008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D2",
+  "inputs": {
+   "r10": "FFFFFF8F00000000",
+   "rdx": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, dl",
+  "outputs": {
+   "r10": "0800FF8F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6DA",
+  "inputs": {
+   "r11": "FEFFFFFFFFFFFF7F",
+   "rdx": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, dl",
+  "outputs": {
+   "r11": "3200FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E2",
+  "inputs": {
+   "r12": "0000000000000080",
+   "rdx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, dl",
+  "outputs": {
+   "r12": "FF00000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6EA",
+  "inputs": {
+   "r13": "00000080FFFFFFFF",
+   "rdx": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, dl",
+  "outputs": {
+   "r13": "01000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F2",
+  "inputs": {
+   "r14": "FF7FFFFFFFFFFFFF",
+   "rdx": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, dl",
+  "outputs": {
+   "r14": "0100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6FA",
+  "inputs": {
+   "r15": "0180FFFFFFFFFFFF",
+   "rdx": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, dl",
+  "outputs": {
+   "r15": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C3",
+  "inputs": {
+   "rax": "7FFFFFFFFFFFFFFF",
+   "rbx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, bl",
+  "outputs": {
+   "rax": "8000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6CB",
+  "inputs": {
+   "rbx": "FFFFFFFFFFFFFFFF",
+   "rcx": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, bl",
+  "outputs": {
+   "rcx": "FF00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D3",
+  "inputs": {
+   "rbx": "0100000000000000",
+   "rdx": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, bl",
+  "outputs": {
+   "rdx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6DB",
+  "inputs": {
+   "rbx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, bl",
+  "outputs": {
+   "rbx": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E3",
+  "inputs": {
+   "rbx": "0300000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, bl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "03003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6EB",
+  "inputs": {
+   "rbp": "0500000000000000",
+   "rbx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, bl",
+  "outputs": {
+   "rbp": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F3",
+  "inputs": {
+   "rbx": "0600000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0700000000000000"
+  },
+  "instr": "movzx si, bl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0600000000000000"
+  }
+ },
+ {
+  "data": "660FB6FB",
+  "inputs": {
+   "rbx": "0800000000000000",
+   "rdi": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, bl",
+  "outputs": {
+   "rdi": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C3",
+  "inputs": {
+   "r8": "7F00000000000000",
+   "rbx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, bl",
+  "outputs": {
+   "r8": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6CB",
+  "inputs": {
+   "r9": "9900000000000000",
+   "rbx": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, bl",
+  "outputs": {
+   "r9": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D3",
+  "inputs": {
+   "r10": "FF7F000000000000",
+   "rbx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, bl",
+  "outputs": {
+   "r10": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6DB",
+  "inputs": {
+   "r11": "2828282800000000",
+   "rbx": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, bl",
+  "outputs": {
+   "r11": "0000282800000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E3",
+  "inputs": {
+   "r12": "5050505000000000",
+   "rbx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, bl",
+  "outputs": {
+   "r12": "CC00505000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6EB",
+  "inputs": {
+   "r13": "FEFFFF7F00000000",
+   "rbx": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, bl",
+  "outputs": {
+   "r13": "9900FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F3",
+  "inputs": {
+   "r14": "0000008000000000",
+   "rbx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, bl",
+  "outputs": {
+   "r14": "FF00008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6FB",
+  "inputs": {
+   "r15": "0200008000000000",
+   "rbx": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, bl",
+  "outputs": {
+   "r15": "0100008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C4",
+  "inputs": {
+   "rax": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, ah",
+  "outputs": {
+   "rax": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6CC",
+  "inputs": {
+   "rax": "0400008000000000",
+   "rcx": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, ah",
+  "outputs": {
+   "rcx": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D4",
+  "inputs": {
+   "rax": "0600008000000000",
+   "rdx": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, ah",
+  "outputs": {
+   "rdx": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6DC",
+  "inputs": {
+   "rax": "0800008000000000",
+   "rbx": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, ah",
+  "outputs": {
+   "rbx": "0000FF8F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E4",
+  "inputs": {
+   "rax": "32F304B500000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, ah",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "F3003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6EC",
+  "inputs": {
+   "rax": "FEFFFFFFFFFFFF7F",
+   "rbp": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, ah",
+  "outputs": {
+   "rbp": "FF00FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F4",
+  "inputs": {
+   "rax": "0000000000000080",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0100000000000080"
+  },
+  "instr": "movzx si, ah",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000080"
+  }
+ },
+ {
+  "data": "660FB6FC",
+  "inputs": {
+   "rax": "00000080FFFFFFFF",
+   "rdi": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, ah",
+  "outputs": {
+   "rdi": "00000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C5",
+  "inputs": {
+   "rax": "FF7FFFFFFFFFFFFF",
+   "rcx": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, ch",
+  "outputs": {
+   "rax": "8000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6CD",
+  "inputs": {
+   "rcx": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, ch",
+  "outputs": {
+   "rcx": "8000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D5",
+  "inputs": {
+   "rcx": "7FFFFFFFFFFFFFFF",
+   "rdx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, ch",
+  "outputs": {
+   "rdx": "FF00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6DD",
+  "inputs": {
+   "rbx": "FFFFFFFFFFFFFFFF",
+   "rcx": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, ch",
+  "outputs": {
+   "rbx": "FF00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E5",
+  "inputs": {
+   "rcx": "0000000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, ch",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "00003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6ED",
+  "inputs": {
+   "rbp": "0200000000000000",
+   "rcx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, ch",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F5",
+  "inputs": {
+   "rcx": "0300000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0400000000000000"
+  },
+  "instr": "movzx si, ch",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "660FB6FD",
+  "inputs": {
+   "rcx": "0500000000000000",
+   "rdi": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, ch",
+  "outputs": {
+   "rdi": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C6",
+  "inputs": {
+   "rax": "0700000000000000",
+   "rdx": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, dh",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6CE",
+  "inputs": {
+   "rcx": "2100000000000000",
+   "rdx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, dh",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D6",
+  "inputs": {
+   "rdx": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, dh",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6DE",
+  "inputs": {
+   "rbx": "9900000000000000",
+   "rdx": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, dh",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E6",
+  "inputs": {
+   "rdx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, dh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "7F003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6EE",
+  "inputs": {
+   "rbp": "0080000000000000",
+   "rdx": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, dh",
+  "outputs": {
+   "rbp": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F6",
+  "inputs": {
+   "rdx": "2828282800000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "CC3C412D00000000"
+  },
+  "instr": "movzx si, dh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "2800412D00000000"
+  }
+ },
+ {
+  "data": "660FB6FE",
+  "inputs": {
+   "rdi": "9979825A00000000",
+   "rdx": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, dh",
+  "outputs": {
+   "rdi": "5000825A00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6C7",
+  "inputs": {
+   "rax": "FEFFFF7F00000000",
+   "rbx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, bh",
+  "outputs": {
+   "rax": "FF00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6CF",
+  "inputs": {
+   "rbx": "0100008000000000",
+   "rcx": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, bh",
+  "outputs": {
+   "rcx": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6D7",
+  "inputs": {
+   "rbx": "0300008000000000",
+   "rdx": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, bh",
+  "outputs": {
+   "rdx": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6DF",
+  "inputs": {
+   "rbx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, bh",
+  "outputs": {
+   "rbx": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6E7",
+  "inputs": {
+   "rbx": "0500008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, bh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "00003C7284000000"
+  }
+ },
+ {
+  "data": "660FB6EF",
+  "inputs": {
+   "rbp": "0700008000000000",
+   "rbx": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, bh",
+  "outputs": {
+   "rbp": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "660FB6F7",
+  "inputs": {
+   "rbx": "0800008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FFFFFF8F00000000"
+  },
+  "instr": "movzx si, bh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000FF8F00000000"
+  }
+ },
+ {
+  "data": "660FB6FF",
+  "inputs": {
+   "rbx": "32F304B500000000",
+   "rdi": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, bh",
+  "outputs": {
+   "rdi": "F300FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6C4",
+  "inputs": {
+   "rax": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx ax, spl",
+  "outputs": {
+   "rax": "2000FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6CC",
+  "inputs": {
+   "rcx": "0000000000000080",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx cx, spl",
+  "outputs": {
+   "rcx": "2000000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6D4",
+  "inputs": {
+   "rdx": "0100000000000080",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx dx, spl",
+  "outputs": {
+   "rdx": "2000000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6DC",
+  "inputs": {
+   "rbx": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx bx, spl",
+  "outputs": {
+   "rbx": "20000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6E4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, spl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "20003C7284000000"
+  }
+ },
+ {
+  "data": "66400FB6EC",
+  "inputs": {
+   "rbp": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx bp, spl",
+  "outputs": {
+   "rbp": "20000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6F4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FF7FFFFFFFFFFFFF",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx si, spl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "2000FFFFFFFFFFFF"
+  }
+ },
+ {
+  "data": "66400FB6FC",
+  "inputs": {
+   "rdi": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx di, spl",
+  "outputs": {
+   "rdi": "2000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C4",
+  "inputs": {
+   "r8": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r8w, spl",
+  "outputs": {
+   "r8": "2000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6CC",
+  "inputs": {
+   "r9": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r9w, spl",
+  "outputs": {
+   "r9": "2000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D4",
+  "inputs": {
+   "r10": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r10w, spl",
+  "outputs": {
+   "r10": "2000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6DC",
+  "inputs": {
+   "r11": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r11w, spl",
+  "outputs": {
+   "r11": "2000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E4",
+  "inputs": {
+   "r12": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r12w, spl",
+  "outputs": {
+   "r12": "2000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6EC",
+  "inputs": {
+   "r13": "0000000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r13w, spl",
+  "outputs": {
+   "r13": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F4",
+  "inputs": {
+   "r14": "0100000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r14w, spl",
+  "outputs": {
+   "r14": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6FC",
+  "inputs": {
+   "r15": "0200000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r15w, spl",
+  "outputs": {
+   "r15": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6C5",
+  "inputs": {
+   "rax": "0300000000000000",
+   "rbp": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, bpl",
+  "outputs": {
+   "rax": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6CD",
+  "inputs": {
+   "rbp": "0600000000000000",
+   "rcx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, bpl",
+  "outputs": {
+   "rcx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6D5",
+  "inputs": {
+   "rbp": "0800000000000000",
+   "rdx": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, bpl",
+  "outputs": {
+   "rdx": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6DD",
+  "inputs": {
+   "rbp": "7E00000000000000",
+   "rbx": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, bpl",
+  "outputs": {
+   "rbx": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6E5",
+  "inputs": {
+   "rbp": "7F00000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, bpl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "7F003C7284000000"
+  }
+ },
+ {
+  "data": "66400FB6ED",
+  "inputs": {
+   "rbp": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, bpl",
+  "outputs": {
+   "rbp": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6F5",
+  "inputs": {
+   "rbp": "9900000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FE7F000000000000"
+  },
+  "instr": "movzx si, bpl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "9900000000000000"
+  }
+ },
+ {
+  "data": "66400FB6FD",
+  "inputs": {
+   "rbp": "FF7F000000000000",
+   "rdi": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, bpl",
+  "outputs": {
+   "rdi": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C5",
+  "inputs": {
+   "r8": "CC3C412D00000000",
+   "rbp": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, bpl",
+  "outputs": {
+   "r8": "2800412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6CD",
+  "inputs": {
+   "r9": "9979825A00000000",
+   "rbp": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, bpl",
+  "outputs": {
+   "r9": "5000825A00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D5",
+  "inputs": {
+   "r10": "FFFFFF7F00000000",
+   "rbp": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, bpl",
+  "outputs": {
+   "r10": "FE00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6DD",
+  "inputs": {
+   "r11": "0100008000000000",
+   "rbp": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, bpl",
+  "outputs": {
+   "r11": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E5",
+  "inputs": {
+   "r12": "0300008000000000",
+   "rbp": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, bpl",
+  "outputs": {
+   "r12": "0200008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6ED",
+  "inputs": {
+   "r13": "0500008000000000",
+   "rbp": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, bpl",
+  "outputs": {
+   "r13": "0400008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F5",
+  "inputs": {
+   "r14": "0700008000000000",
+   "rbp": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, bpl",
+  "outputs": {
+   "r14": "0600008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6FD",
+  "inputs": {
+   "r15": "FFFFFF8F00000000",
+   "rbp": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, bpl",
+  "outputs": {
+   "r15": "0800FF8F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6C6",
+  "inputs": {
+   "rax": "32F304B500000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FEFFFFFFFFFFFF7F"
+  },
+  "instr": "movzx ax, sil",
+  "outputs": {
+   "rax": "FE0004B500000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6CE",
+  "inputs": {
+   "rcx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000000000000080"
+  },
+  "instr": "movzx cx, sil",
+  "outputs": {
+   "rcx": "0000FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6D6",
+  "inputs": {
+   "rdx": "0100000000000080",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "00000080FFFFFFFF"
+  },
+  "instr": "movzx dx, sil",
+  "outputs": {
+   "rdx": "0000000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6DE",
+  "inputs": {
+   "rbx": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FF7FFFFFFFFFFFFF"
+  },
+  "instr": "movzx bx, sil",
+  "outputs": {
+   "rbx": "FF000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6E6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0080FFFFFFFFFFFF",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, sil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "00003C7284000000"
+  }
+ },
+ {
+  "data": "66400FB6EE",
+  "inputs": {
+   "rbp": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "7FFFFFFFFFFFFFFF"
+  },
+  "instr": "movzx bp, sil",
+  "outputs": {
+   "rbp": "7F00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6F6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "80FFFFFFFFFFFFFF"
+  },
+  "instr": "movzx si, sil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "8000FFFFFFFFFFFF"
+  }
+ },
+ {
+  "data": "66400FB6FE",
+  "inputs": {
+   "rdi": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "81FFFFFFFFFFFFFF"
+  },
+  "instr": "movzx di, sil",
+  "outputs": {
+   "rdi": "8100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C6",
+  "inputs": {
+   "r8": "0100000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000000000000000"
+  },
+  "instr": "movzx r8w, sil",
+  "outputs": {
+   "r8": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6CE",
+  "inputs": {
+   "r9": "0300000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0200000000000000"
+  },
+  "instr": "movzx r9w, sil",
+  "outputs": {
+   "r9": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D6",
+  "inputs": {
+   "r10": "0500000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0400000000000000"
+  },
+  "instr": "movzx r10w, sil",
+  "outputs": {
+   "r10": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6DE",
+  "inputs": {
+   "r11": "0700000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0600000000000000"
+  },
+  "instr": "movzx r11w, sil",
+  "outputs": {
+   "r11": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E6",
+  "inputs": {
+   "r12": "2100000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0800000000000000"
+  },
+  "instr": "movzx r12w, sil",
+  "outputs": {
+   "r12": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6EE",
+  "inputs": {
+   "r13": "7F00000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "7E00000000000000"
+  },
+  "instr": "movzx r13w, sil",
+  "outputs": {
+   "r13": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F6",
+  "inputs": {
+   "r14": "9900000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "8000000000000000"
+  },
+  "instr": "movzx r14w, sil",
+  "outputs": {
+   "r14": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6FE",
+  "inputs": {
+   "r15": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FE7F000000000000"
+  },
+  "instr": "movzx r15w, sil",
+  "outputs": {
+   "r15": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6C7",
+  "inputs": {
+   "rax": "0080000000000000",
+   "rdi": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, dil",
+  "outputs": {
+   "rax": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6CF",
+  "inputs": {
+   "rcx": "CC3C412D00000000",
+   "rdi": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, dil",
+  "outputs": {
+   "rcx": "5000412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6D7",
+  "inputs": {
+   "rdi": "FEFFFF7F00000000",
+   "rdx": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, dil",
+  "outputs": {
+   "rdx": "FE00825A00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6DF",
+  "inputs": {
+   "rbx": "FFFFFF7F00000000",
+   "rdi": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, dil",
+  "outputs": {
+   "rbx": "0000FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6E7",
+  "inputs": {
+   "rdi": "0100008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, dil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "01003C7284000000"
+  }
+ },
+ {
+  "data": "66400FB6EF",
+  "inputs": {
+   "rbp": "0200008000000000",
+   "rdi": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, dil",
+  "outputs": {
+   "rbp": "0300008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66400FB6F7",
+  "inputs": {
+   "rdi": "0500008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0400008000000000"
+  },
+  "instr": "movzx si, dil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0500008000000000"
+  }
+ },
+ {
+  "data": "66400FB6FF",
+  "inputs": {
+   "rdi": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, dil",
+  "outputs": {
+   "rdi": "0600008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6C7",
+  "inputs": {
+   "r8": "0800008000000000",
+   "rdi": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, dil",
+  "outputs": {
+   "r8": "0700008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6CF",
+  "inputs": {
+   "r9": "32F304B500000000",
+   "rdi": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, dil",
+  "outputs": {
+   "r9": "FF0004B500000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6D7",
+  "inputs": {
+   "r10": "FFFFFFFFFFFFFF7F",
+   "rdi": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, dil",
+  "outputs": {
+   "r10": "FE00FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6DF",
+  "inputs": {
+   "r11": "0100000000000080",
+   "rdi": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, dil",
+  "outputs": {
+   "r11": "0000000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6E7",
+  "inputs": {
+   "r12": "01000080FFFFFFFF",
+   "rdi": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, dil",
+  "outputs": {
+   "r12": "00000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6EF",
+  "inputs": {
+   "r13": "0080FFFFFFFFFFFF",
+   "rdi": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, dil",
+  "outputs": {
+   "r13": "FF00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6F7",
+  "inputs": {
+   "r14": "7FFFFFFFFFFFFFFF",
+   "rdi": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, dil",
+  "outputs": {
+   "r14": "0100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66440FB6FF",
+  "inputs": {
+   "r15": "81FFFFFFFFFFFFFF",
+   "rdi": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, dil",
+  "outputs": {
+   "r15": "8000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C0",
+  "inputs": {
+   "r8": "0000000000000000",
+   "rax": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r8b",
+  "outputs": {
+   "rax": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C8",
+  "inputs": {
+   "r8": "0200000000000000",
+   "rcx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r8b",
+  "outputs": {
+   "rcx": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D0",
+  "inputs": {
+   "r8": "0400000000000000",
+   "rdx": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r8b",
+  "outputs": {
+   "rdx": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D8",
+  "inputs": {
+   "r8": "0600000000000000",
+   "rbx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r8b",
+  "outputs": {
+   "rbx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E0",
+  "inputs": {
+   "r8": "0700000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r8b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "07003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6E8",
+  "inputs": {
+   "r8": "2100000000000000",
+   "rbp": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r8b",
+  "outputs": {
+   "rbp": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F0",
+  "inputs": {
+   "r8": "7F00000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "7E00000000000000"
+  },
+  "instr": "movzx si, r8b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "7F00000000000000"
+  }
+ },
+ {
+  "data": "66410FB6F8",
+  "inputs": {
+   "r8": "9900000000000000",
+   "rdi": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r8b",
+  "outputs": {
+   "rdi": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C0",
+  "inputs": {
+   "r8": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r8b",
+  "outputs": {
+   "r8": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C8",
+  "inputs": {
+   "r8": "FF7F000000000000",
+   "r9": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r8b",
+  "outputs": {
+   "r9": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D0",
+  "inputs": {
+   "r10": "CC3C412D00000000",
+   "r8": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r8b",
+  "outputs": {
+   "r10": "2800412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D8",
+  "inputs": {
+   "r11": "9979825A00000000",
+   "r8": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r8b",
+  "outputs": {
+   "r11": "5000825A00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E0",
+  "inputs": {
+   "r12": "FFFFFF7F00000000",
+   "r8": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r8b",
+  "outputs": {
+   "r12": "FE00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E8",
+  "inputs": {
+   "r13": "0100008000000000",
+   "r8": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r8b",
+  "outputs": {
+   "r13": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F0",
+  "inputs": {
+   "r14": "0300008000000000",
+   "r8": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r8b",
+  "outputs": {
+   "r14": "0200008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F8",
+  "inputs": {
+   "r15": "0500008000000000",
+   "r8": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r8b",
+  "outputs": {
+   "r15": "0400008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C1",
+  "inputs": {
+   "r9": "0700008000000000",
+   "rax": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r9b",
+  "outputs": {
+   "rax": "0700008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C9",
+  "inputs": {
+   "r9": "FFFFFF8F00000000",
+   "rcx": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r9b",
+  "outputs": {
+   "rcx": "FF00008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D1",
+  "inputs": {
+   "r9": "FEFFFFFFFFFFFF7F",
+   "rdx": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r9b",
+  "outputs": {
+   "rdx": "FE0004B500000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D9",
+  "inputs": {
+   "r9": "0000000000000080",
+   "rbx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r9b",
+  "outputs": {
+   "rbx": "0000FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E1",
+  "inputs": {
+   "r9": "0100000000000080",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r9b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "01003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6E9",
+  "inputs": {
+   "r9": "01000080FFFFFFFF",
+   "rbp": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r9b",
+  "outputs": {
+   "rbp": "01000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F1",
+  "inputs": {
+   "r9": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FF7FFFFFFFFFFFFF"
+  },
+  "instr": "movzx si, r9b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000FFFFFFFFFFFF"
+  }
+ },
+ {
+  "data": "66410FB6F9",
+  "inputs": {
+   "r9": "7FFFFFFFFFFFFFFF",
+   "rdi": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r9b",
+  "outputs": {
+   "rdi": "7F00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C1",
+  "inputs": {
+   "r8": "80FFFFFFFFFFFFFF",
+   "r9": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r9b",
+  "outputs": {
+   "r8": "8100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C9",
+  "inputs": {
+   "r9": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r9b",
+  "outputs": {
+   "r9": "FF00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D1",
+  "inputs": {
+   "r10": "0100000000000000",
+   "r9": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r9b",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D9",
+  "inputs": {
+   "r11": "0300000000000000",
+   "r9": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r9b",
+  "outputs": {
+   "r11": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E1",
+  "inputs": {
+   "r12": "0500000000000000",
+   "r9": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r9b",
+  "outputs": {
+   "r12": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E9",
+  "inputs": {
+   "r13": "0700000000000000",
+   "r9": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r9b",
+  "outputs": {
+   "r13": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F1",
+  "inputs": {
+   "r14": "2100000000000000",
+   "r9": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r9b",
+  "outputs": {
+   "r14": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F9",
+  "inputs": {
+   "r15": "7F00000000000000",
+   "r9": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r9b",
+  "outputs": {
+   "r15": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C2",
+  "inputs": {
+   "r10": "9900000000000000",
+   "rax": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r10b",
+  "outputs": {
+   "rax": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6CA",
+  "inputs": {
+   "r10": "FF7F000000000000",
+   "rcx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r10b",
+  "outputs": {
+   "rcx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D2",
+  "inputs": {
+   "r10": "2828282800000000",
+   "rdx": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r10b",
+  "outputs": {
+   "rdx": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6DA",
+  "inputs": {
+   "r10": "5050505000000000",
+   "rbx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r10b",
+  "outputs": {
+   "rbx": "5000412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E2",
+  "inputs": {
+   "r10": "9979825A00000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r10b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "99003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6EA",
+  "inputs": {
+   "r10": "FFFFFF7F00000000",
+   "rbp": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r10b",
+  "outputs": {
+   "rbp": "FF00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F2",
+  "inputs": {
+   "r10": "0100008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000008000000000"
+  },
+  "instr": "movzx si, r10b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0100008000000000"
+  }
+ },
+ {
+  "data": "66410FB6FA",
+  "inputs": {
+   "r10": "0300008000000000",
+   "rdi": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r10b",
+  "outputs": {
+   "rdi": "0300008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C2",
+  "inputs": {
+   "r10": "0500008000000000",
+   "r8": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r10b",
+  "outputs": {
+   "r8": "0500008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6CA",
+  "inputs": {
+   "r10": "0700008000000000",
+   "r9": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r10b",
+  "outputs": {
+   "r9": "0700008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D2",
+  "inputs": {
+   "r10": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r10b",
+  "outputs": {
+   "r10": "0800008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6DA",
+  "inputs": {
+   "r10": "FFFFFF8F00000000",
+   "r11": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r10b",
+  "outputs": {
+   "r11": "FF0004B500000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E2",
+  "inputs": {
+   "r10": "FEFFFFFFFFFFFF7F",
+   "r12": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r10b",
+  "outputs": {
+   "r12": "FE00FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6EA",
+  "inputs": {
+   "r10": "0000000000000080",
+   "r13": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r10b",
+  "outputs": {
+   "r13": "0000000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F2",
+  "inputs": {
+   "r10": "00000080FFFFFFFF",
+   "r14": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r10b",
+  "outputs": {
+   "r14": "00000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6FA",
+  "inputs": {
+   "r10": "FF7FFFFFFFFFFFFF",
+   "r15": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r10b",
+  "outputs": {
+   "r15": "FF00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C3",
+  "inputs": {
+   "r11": "7FFFFFFFFFFFFFFF",
+   "rax": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r11b",
+  "outputs": {
+   "rax": "7F00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6CB",
+  "inputs": {
+   "r11": "81FFFFFFFFFFFFFF",
+   "rcx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r11b",
+  "outputs": {
+   "rcx": "8100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D3",
+  "inputs": {
+   "r11": "0000000000000000",
+   "rdx": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r11b",
+  "outputs": {
+   "rdx": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6DB",
+  "inputs": {
+   "r11": "0200000000000000",
+   "rbx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r11b",
+  "outputs": {
+   "rbx": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E3",
+  "inputs": {
+   "r11": "0300000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r11b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "03003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6EB",
+  "inputs": {
+   "r11": "0500000000000000",
+   "rbp": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r11b",
+  "outputs": {
+   "rbp": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F3",
+  "inputs": {
+   "r11": "0700000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0600000000000000"
+  },
+  "instr": "movzx si, r11b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0700000000000000"
+  }
+ },
+ {
+  "data": "66410FB6FB",
+  "inputs": {
+   "r11": "2100000000000000",
+   "rdi": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r11b",
+  "outputs": {
+   "rdi": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C3",
+  "inputs": {
+   "r11": "7F00000000000000",
+   "r8": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r11b",
+  "outputs": {
+   "r8": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6CB",
+  "inputs": {
+   "r11": "9900000000000000",
+   "r9": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r11b",
+  "outputs": {
+   "r9": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D3",
+  "inputs": {
+   "r10": "FE7F000000000000",
+   "r11": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r11b",
+  "outputs": {
+   "r10": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6DB",
+  "inputs": {
+   "r11": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r11b",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E3",
+  "inputs": {
+   "r11": "2828282800000000",
+   "r12": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r11b",
+  "outputs": {
+   "r12": "2800412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6EB",
+  "inputs": {
+   "r11": "5050505000000000",
+   "r13": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r11b",
+  "outputs": {
+   "r13": "5000825A00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F3",
+  "inputs": {
+   "r11": "FEFFFF7F00000000",
+   "r14": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r11b",
+  "outputs": {
+   "r14": "FE00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6FB",
+  "inputs": {
+   "r11": "0000008000000000",
+   "r15": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r11b",
+  "outputs": {
+   "r15": "0000008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C4",
+  "inputs": {
+   "r12": "0300008000000000",
+   "rax": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r12b",
+  "outputs": {
+   "rax": "0300008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6CC",
+  "inputs": {
+   "r12": "0500008000000000",
+   "rcx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r12b",
+  "outputs": {
+   "rcx": "0500008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D4",
+  "inputs": {
+   "r12": "0700008000000000",
+   "rdx": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r12b",
+  "outputs": {
+   "rdx": "0700008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6DC",
+  "inputs": {
+   "r12": "FFFFFF8F00000000",
+   "rbx": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r12b",
+  "outputs": {
+   "rbx": "FF00008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E4",
+  "inputs": {
+   "r12": "32F304B500000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r12b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "32003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6EC",
+  "inputs": {
+   "r12": "FFFFFFFFFFFFFF7F",
+   "rbp": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r12b",
+  "outputs": {
+   "rbp": "FF00FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F4",
+  "inputs": {
+   "r12": "0100000000000080",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000000000000080"
+  },
+  "instr": "movzx si, r12b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0100000000000080"
+  }
+ },
+ {
+  "data": "66410FB6FC",
+  "inputs": {
+   "r12": "01000080FFFFFFFF",
+   "rdi": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r12b",
+  "outputs": {
+   "rdi": "01000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C4",
+  "inputs": {
+   "r12": "0080FFFFFFFFFFFF",
+   "r8": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r12b",
+  "outputs": {
+   "r8": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6CC",
+  "inputs": {
+   "r12": "7FFFFFFFFFFFFFFF",
+   "r9": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r12b",
+  "outputs": {
+   "r9": "7F00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D4",
+  "inputs": {
+   "r10": "80FFFFFFFFFFFFFF",
+   "r12": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r12b",
+  "outputs": {
+   "r10": "8100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6DC",
+  "inputs": {
+   "r11": "FFFFFFFFFFFFFFFF",
+   "r12": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r12b",
+  "outputs": {
+   "r11": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E4",
+  "inputs": {
+   "r12": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r12b",
+  "outputs": {
+   "r12": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6EC",
+  "inputs": {
+   "r12": "0200000000000000",
+   "r13": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r12b",
+  "outputs": {
+   "r13": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F4",
+  "inputs": {
+   "r12": "0400000000000000",
+   "r14": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r12b",
+  "outputs": {
+   "r14": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6FC",
+  "inputs": {
+   "r12": "0600000000000000",
+   "r15": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r12b",
+  "outputs": {
+   "r15": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C5",
+  "inputs": {
+   "r13": "2100000000000000",
+   "rax": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r13b",
+  "outputs": {
+   "rax": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6CD",
+  "inputs": {
+   "r13": "7F00000000000000",
+   "rcx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r13b",
+  "outputs": {
+   "rcx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D5",
+  "inputs": {
+   "r13": "9900000000000000",
+   "rdx": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r13b",
+  "outputs": {
+   "rdx": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6DD",
+  "inputs": {
+   "r13": "FF7F000000000000",
+   "rbx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r13b",
+  "outputs": {
+   "rbx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E5",
+  "inputs": {
+   "r13": "0080000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r13b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "00003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6ED",
+  "inputs": {
+   "r13": "CC3C412D00000000",
+   "rbp": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r13b",
+  "outputs": {
+   "rbp": "CC00282800000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F5",
+  "inputs": {
+   "r13": "9979825A00000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "5050505000000000"
+  },
+  "instr": "movzx si, r13b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "9900505000000000"
+  }
+ },
+ {
+  "data": "66410FB6FD",
+  "inputs": {
+   "r13": "FFFFFF7F00000000",
+   "rdi": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r13b",
+  "outputs": {
+   "rdi": "FF00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C5",
+  "inputs": {
+   "r13": "0100008000000000",
+   "r8": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r13b",
+  "outputs": {
+   "r8": "0100008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6CD",
+  "inputs": {
+   "r13": "0300008000000000",
+   "r9": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r13b",
+  "outputs": {
+   "r9": "0300008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D5",
+  "inputs": {
+   "r10": "0400008000000000",
+   "r13": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r13b",
+  "outputs": {
+   "r10": "0500008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6DD",
+  "inputs": {
+   "r11": "0600008000000000",
+   "r13": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r13b",
+  "outputs": {
+   "r11": "0700008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E5",
+  "inputs": {
+   "r12": "0800008000000000",
+   "r13": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r13b",
+  "outputs": {
+   "r12": "FF00008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6ED",
+  "inputs": {
+   "r13": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r13b",
+  "outputs": {
+   "r13": "320004B500000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F5",
+  "inputs": {
+   "r13": "FEFFFFFFFFFFFF7F",
+   "r14": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r13b",
+  "outputs": {
+   "r14": "FE00FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6FD",
+  "inputs": {
+   "r13": "0000000000000080",
+   "r15": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r13b",
+  "outputs": {
+   "r15": "0000000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C6",
+  "inputs": {
+   "r14": "01000080FFFFFFFF",
+   "rax": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r14b",
+  "outputs": {
+   "rax": "01000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6CE",
+  "inputs": {
+   "r14": "0080FFFFFFFFFFFF",
+   "rcx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r14b",
+  "outputs": {
+   "rcx": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D6",
+  "inputs": {
+   "r14": "7FFFFFFFFFFFFFFF",
+   "rdx": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r14b",
+  "outputs": {
+   "rdx": "7F00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6DE",
+  "inputs": {
+   "r14": "81FFFFFFFFFFFFFF",
+   "rbx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r14b",
+  "outputs": {
+   "rbx": "8100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E6",
+  "inputs": {
+   "r14": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r14b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "FF003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6EE",
+  "inputs": {
+   "r14": "0100000000000000",
+   "rbp": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r14b",
+  "outputs": {
+   "rbp": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F6",
+  "inputs": {
+   "r14": "0300000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0200000000000000"
+  },
+  "instr": "movzx si, r14b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0300000000000000"
+  }
+ },
+ {
+  "data": "66410FB6FE",
+  "inputs": {
+   "r14": "0500000000000000",
+   "rdi": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r14b",
+  "outputs": {
+   "rdi": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C6",
+  "inputs": {
+   "r14": "0700000000000000",
+   "r8": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r14b",
+  "outputs": {
+   "r8": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6CE",
+  "inputs": {
+   "r14": "2100000000000000",
+   "r9": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r14b",
+  "outputs": {
+   "r9": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D6",
+  "inputs": {
+   "r10": "7E00000000000000",
+   "r14": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r14b",
+  "outputs": {
+   "r10": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6DE",
+  "inputs": {
+   "r11": "8000000000000000",
+   "r14": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r14b",
+  "outputs": {
+   "r11": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E6",
+  "inputs": {
+   "r12": "FE7F000000000000",
+   "r14": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r14b",
+  "outputs": {
+   "r12": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6EE",
+  "inputs": {
+   "r13": "0080000000000000",
+   "r14": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r14b",
+  "outputs": {
+   "r13": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F6",
+  "inputs": {
+   "r14": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r14b",
+  "outputs": {
+   "r14": "CC00412D00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6FE",
+  "inputs": {
+   "r14": "5050505000000000",
+   "r15": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r14b",
+  "outputs": {
+   "r15": "5000825A00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6C7",
+  "inputs": {
+   "r15": "FFFFFF7F00000000",
+   "rax": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ax, r15b",
+  "outputs": {
+   "rax": "FF00FF7F00000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6CF",
+  "inputs": {
+   "r15": "0100008000000000",
+   "rcx": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx cx, r15b",
+  "outputs": {
+   "rcx": "0100008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6D7",
+  "inputs": {
+   "r15": "0300008000000000",
+   "rdx": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx dx, r15b",
+  "outputs": {
+   "rdx": "0300008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6DF",
+  "inputs": {
+   "r15": "0500008000000000",
+   "rbx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bx, r15b",
+  "outputs": {
+   "rbx": "0500008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6E7",
+  "inputs": {
+   "r15": "0600008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx sp, r15b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "06003C7284000000"
+  }
+ },
+ {
+  "data": "66410FB6EF",
+  "inputs": {
+   "r15": "0800008000000000",
+   "rbp": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx bp, r15b",
+  "outputs": {
+   "rbp": "0800008000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66410FB6F7",
+  "inputs": {
+   "r15": "32F304B500000000",
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FFFFFF8F00000000"
+  },
+  "instr": "movzx si, r15b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "3200FF8F00000000"
+  }
+ },
+ {
+  "data": "66410FB6FF",
+  "inputs": {
+   "r15": "FFFFFFFFFFFFFF7F",
+   "rdi": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx di, r15b",
+  "outputs": {
+   "rdi": "FF00FFFFFFFFFF7F",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6C7",
+  "inputs": {
+   "r15": "0100000000000080",
+   "r8": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8w, r15b",
+  "outputs": {
+   "r8": "0100000000000080",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6CF",
+  "inputs": {
+   "r15": "01000080FFFFFFFF",
+   "r9": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9w, r15b",
+  "outputs": {
+   "r9": "01000080FFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6D7",
+  "inputs": {
+   "r10": "FF7FFFFFFFFFFFFF",
+   "r15": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10w, r15b",
+  "outputs": {
+   "r10": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6DF",
+  "inputs": {
+   "r11": "0180FFFFFFFFFFFF",
+   "r15": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11w, r15b",
+  "outputs": {
+   "r11": "7F00FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6E7",
+  "inputs": {
+   "r12": "80FFFFFFFFFFFFFF",
+   "r15": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12w, r15b",
+  "outputs": {
+   "r12": "8100FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6EF",
+  "inputs": {
+   "r13": "FFFFFFFFFFFFFFFF",
+   "r15": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13w, r15b",
+  "outputs": {
+   "r13": "0000FFFFFFFFFFFF",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6F7",
+  "inputs": {
+   "r14": "0100000000000000",
+   "r15": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14w, r15b",
+  "outputs": {
+   "r14": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "66450FB6FF",
+  "inputs": {
+   "r15": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15w, r15b",
+  "outputs": {
+   "r15": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C0",
+  "inputs": {
+   "rax": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, al",
+  "outputs": {
+   "rax": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C8",
+  "inputs": {
+   "rax": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, al",
+  "outputs": {
+   "rcx": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D0",
+  "inputs": {
+   "rax": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, al",
+  "outputs": {
+   "rdx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D8",
+  "inputs": {
+   "rax": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, al",
+  "outputs": {
+   "rbx": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E0",
+  "inputs": {
+   "rax": "0800000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, al",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0800000000000000"
+  }
+ },
+ {
+  "data": "0FB6E8",
+  "inputs": {
+   "rax": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, al",
+  "outputs": {
+   "rbp": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F0",
+  "inputs": {
+   "rax": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, al",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "7E00000000000000"
+  }
+ },
+ {
+  "data": "0FB6F8",
+  "inputs": {
+   "rax": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, al",
+  "outputs": {
+   "rdi": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C0",
+  "inputs": {
+   "rax": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, al",
+  "outputs": {
+   "r8": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C8",
+  "inputs": {
+   "rax": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, al",
+  "outputs": {
+   "r9": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D0",
+  "inputs": {
+   "rax": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, al",
+  "outputs": {
+   "r10": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D8",
+  "inputs": {
+   "rax": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, al",
+  "outputs": {
+   "r11": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E0",
+  "inputs": {
+   "rax": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, al",
+  "outputs": {
+   "r12": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E8",
+  "inputs": {
+   "rax": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, al",
+  "outputs": {
+   "r13": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F0",
+  "inputs": {
+   "rax": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, al",
+  "outputs": {
+   "r14": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F8",
+  "inputs": {
+   "rax": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, al",
+  "outputs": {
+   "r15": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C0",
+  "inputs": {
+   "rax": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, al",
+  "outputs": {
+   "rax": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C8",
+  "inputs": {
+   "rax": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, al",
+  "outputs": {
+   "rcx": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D0",
+  "inputs": {
+   "rax": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, al",
+  "outputs": {
+   "rdx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D8",
+  "inputs": {
+   "rax": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, al",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E0",
+  "inputs": {
+   "rax": "0100008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, al",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0100000000000000"
+  }
+ },
+ {
+  "data": "480FB6E8",
+  "inputs": {
+   "rax": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, al",
+  "outputs": {
+   "rbp": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F0",
+  "inputs": {
+   "rax": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, al",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0300000000000000"
+  }
+ },
+ {
+  "data": "480FB6F8",
+  "inputs": {
+   "rax": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, al",
+  "outputs": {
+   "rdi": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C0",
+  "inputs": {
+   "rax": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, al",
+  "outputs": {
+   "r8": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C8",
+  "inputs": {
+   "rax": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, al",
+  "outputs": {
+   "r9": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D0",
+  "inputs": {
+   "rax": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, al",
+  "outputs": {
+   "r10": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D8",
+  "inputs": {
+   "rax": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, al",
+  "outputs": {
+   "r11": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E0",
+  "inputs": {
+   "rax": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, al",
+  "outputs": {
+   "r12": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E8",
+  "inputs": {
+   "rax": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, al",
+  "outputs": {
+   "r13": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F0",
+  "inputs": {
+   "rax": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, al",
+  "outputs": {
+   "r14": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F8",
+  "inputs": {
+   "rax": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, al",
+  "outputs": {
+   "r15": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C1",
+  "inputs": {
+   "rcx": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, cl",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C9",
+  "inputs": {
+   "rcx": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, cl",
+  "outputs": {
+   "rcx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D1",
+  "inputs": {
+   "rcx": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, cl",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D9",
+  "inputs": {
+   "rcx": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, cl",
+  "outputs": {
+   "rbx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E1",
+  "inputs": {
+   "rcx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, cl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "FF00000000000000"
+  }
+ },
+ {
+  "data": "0FB6E9",
+  "inputs": {
+   "rcx": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, cl",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F1",
+  "inputs": {
+   "rcx": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, cl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0100000000000000"
+  }
+ },
+ {
+  "data": "0FB6F9",
+  "inputs": {
+   "rcx": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, cl",
+  "outputs": {
+   "rdi": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C1",
+  "inputs": {
+   "rcx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, cl",
+  "outputs": {
+   "r8": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C9",
+  "inputs": {
+   "rcx": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, cl",
+  "outputs": {
+   "r9": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D1",
+  "inputs": {
+   "rcx": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, cl",
+  "outputs": {
+   "r10": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D9",
+  "inputs": {
+   "rcx": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, cl",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E1",
+  "inputs": {
+   "rcx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, cl",
+  "outputs": {
+   "r12": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E9",
+  "inputs": {
+   "rcx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, cl",
+  "outputs": {
+   "r13": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F1",
+  "inputs": {
+   "rcx": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, cl",
+  "outputs": {
+   "r14": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F9",
+  "inputs": {
+   "rcx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, cl",
+  "outputs": {
+   "r15": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C1",
+  "inputs": {
+   "rcx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, cl",
+  "outputs": {
+   "rax": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C9",
+  "inputs": {
+   "rcx": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, cl",
+  "outputs": {
+   "rcx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D1",
+  "inputs": {
+   "rcx": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, cl",
+  "outputs": {
+   "rdx": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D9",
+  "inputs": {
+   "rcx": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, cl",
+  "outputs": {
+   "rbx": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E1",
+  "inputs": {
+   "rcx": "2100000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, cl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "2100000000000000"
+  }
+ },
+ {
+  "data": "480FB6E9",
+  "inputs": {
+   "rcx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, cl",
+  "outputs": {
+   "rbp": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F1",
+  "inputs": {
+   "rcx": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, cl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "7F00000000000000"
+  }
+ },
+ {
+  "data": "480FB6F9",
+  "inputs": {
+   "rcx": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, cl",
+  "outputs": {
+   "rdi": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C1",
+  "inputs": {
+   "rcx": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, cl",
+  "outputs": {
+   "r8": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C9",
+  "inputs": {
+   "rcx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, cl",
+  "outputs": {
+   "r9": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D1",
+  "inputs": {
+   "rcx": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, cl",
+  "outputs": {
+   "r10": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D9",
+  "inputs": {
+   "rcx": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, cl",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E1",
+  "inputs": {
+   "rcx": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, cl",
+  "outputs": {
+   "r12": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E9",
+  "inputs": {
+   "rcx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, cl",
+  "outputs": {
+   "r13": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F1",
+  "inputs": {
+   "rcx": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, cl",
+  "outputs": {
+   "r14": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F9",
+  "inputs": {
+   "rcx": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, cl",
+  "outputs": {
+   "r15": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C2",
+  "inputs": {
+   "rdx": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, dl",
+  "outputs": {
+   "rax": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6CA",
+  "inputs": {
+   "rdx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, dl",
+  "outputs": {
+   "rcx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D2",
+  "inputs": {
+   "rdx": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, dl",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6DA",
+  "inputs": {
+   "rdx": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, dl",
+  "outputs": {
+   "rbx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E2",
+  "inputs": {
+   "rdx": "0200008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, dl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0200000000000000"
+  }
+ },
+ {
+  "data": "0FB6EA",
+  "inputs": {
+   "rdx": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, dl",
+  "outputs": {
+   "rbp": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F2",
+  "inputs": {
+   "rdx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, dl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0400000000000000"
+  }
+ },
+ {
+  "data": "0FB6FA",
+  "inputs": {
+   "rdx": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, dl",
+  "outputs": {
+   "rdi": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C2",
+  "inputs": {
+   "rdx": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, dl",
+  "outputs": {
+   "r8": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6CA",
+  "inputs": {
+   "rdx": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, dl",
+  "outputs": {
+   "r9": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D2",
+  "inputs": {
+   "rdx": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, dl",
+  "outputs": {
+   "r10": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6DA",
+  "inputs": {
+   "rdx": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, dl",
+  "outputs": {
+   "r11": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E2",
+  "inputs": {
+   "rdx": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, dl",
+  "outputs": {
+   "r12": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6EA",
+  "inputs": {
+   "rdx": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, dl",
+  "outputs": {
+   "r13": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F2",
+  "inputs": {
+   "rdx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, dl",
+  "outputs": {
+   "r14": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6FA",
+  "inputs": {
+   "rdx": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, dl",
+  "outputs": {
+   "r15": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C2",
+  "inputs": {
+   "rdx": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, dl",
+  "outputs": {
+   "rax": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6CA",
+  "inputs": {
+   "rdx": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, dl",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D2",
+  "inputs": {
+   "rdx": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, dl",
+  "outputs": {
+   "rdx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6DA",
+  "inputs": {
+   "rdx": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, dl",
+  "outputs": {
+   "rbx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E2",
+  "inputs": {
+   "rdx": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, dl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0000000000000000"
+  }
+ },
+ {
+  "data": "480FB6EA",
+  "inputs": {
+   "rdx": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, dl",
+  "outputs": {
+   "rbp": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F2",
+  "inputs": {
+   "rdx": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, dl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "7F00000000000000"
+  }
+ },
+ {
+  "data": "480FB6FA",
+  "inputs": {
+   "rdx": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, dl",
+  "outputs": {
+   "rdi": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C2",
+  "inputs": {
+   "rdx": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, dl",
+  "outputs": {
+   "r8": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6CA",
+  "inputs": {
+   "rdx": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, dl",
+  "outputs": {
+   "r9": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D2",
+  "inputs": {
+   "rdx": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, dl",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6DA",
+  "inputs": {
+   "rdx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, dl",
+  "outputs": {
+   "r11": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E2",
+  "inputs": {
+   "rdx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, dl",
+  "outputs": {
+   "r12": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6EA",
+  "inputs": {
+   "rdx": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, dl",
+  "outputs": {
+   "r13": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F2",
+  "inputs": {
+   "rdx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, dl",
+  "outputs": {
+   "r14": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6FA",
+  "inputs": {
+   "rdx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, dl",
+  "outputs": {
+   "r15": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C3",
+  "inputs": {
+   "rbx": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, bl",
+  "outputs": {
+   "rax": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6CB",
+  "inputs": {
+   "rbx": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, bl",
+  "outputs": {
+   "rcx": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D3",
+  "inputs": {
+   "rbx": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, bl",
+  "outputs": {
+   "rdx": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6DB",
+  "inputs": {
+   "rbx": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, bl",
+  "outputs": {
+   "rbx": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E3",
+  "inputs": {
+   "rbx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, bl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "7E00000000000000"
+  }
+ },
+ {
+  "data": "0FB6EB",
+  "inputs": {
+   "rbx": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, bl",
+  "outputs": {
+   "rbp": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F3",
+  "inputs": {
+   "rbx": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, bl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "8000000000000000"
+  }
+ },
+ {
+  "data": "0FB6FB",
+  "inputs": {
+   "rbx": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, bl",
+  "outputs": {
+   "rdi": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C3",
+  "inputs": {
+   "rbx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, bl",
+  "outputs": {
+   "r8": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6CB",
+  "inputs": {
+   "rbx": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, bl",
+  "outputs": {
+   "r9": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D3",
+  "inputs": {
+   "rbx": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, bl",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6DB",
+  "inputs": {
+   "rbx": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, bl",
+  "outputs": {
+   "r11": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E3",
+  "inputs": {
+   "rbx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, bl",
+  "outputs": {
+   "r12": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6EB",
+  "inputs": {
+   "rbx": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, bl",
+  "outputs": {
+   "r13": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F3",
+  "inputs": {
+   "rbx": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, bl",
+  "outputs": {
+   "r14": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6FB",
+  "inputs": {
+   "rbx": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, bl",
+  "outputs": {
+   "r15": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C3",
+  "inputs": {
+   "rbx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, bl",
+  "outputs": {
+   "rax": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6CB",
+  "inputs": {
+   "rbx": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, bl",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D3",
+  "inputs": {
+   "rbx": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, bl",
+  "outputs": {
+   "rdx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6DB",
+  "inputs": {
+   "rbx": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, bl",
+  "outputs": {
+   "rbx": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E3",
+  "inputs": {
+   "rbx": "0300008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, bl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0300000000000000"
+  }
+ },
+ {
+  "data": "480FB6EB",
+  "inputs": {
+   "rbx": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, bl",
+  "outputs": {
+   "rbp": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F3",
+  "inputs": {
+   "rbx": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, bl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0500000000000000"
+  }
+ },
+ {
+  "data": "480FB6FB",
+  "inputs": {
+   "rbx": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, bl",
+  "outputs": {
+   "rdi": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C3",
+  "inputs": {
+   "rbx": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, bl",
+  "outputs": {
+   "r8": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6CB",
+  "inputs": {
+   "rbx": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, bl",
+  "outputs": {
+   "r9": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D3",
+  "inputs": {
+   "rbx": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, bl",
+  "outputs": {
+   "r10": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6DB",
+  "inputs": {
+   "rbx": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, bl",
+  "outputs": {
+   "r11": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E3",
+  "inputs": {
+   "rbx": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, bl",
+  "outputs": {
+   "r12": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6EB",
+  "inputs": {
+   "rbx": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, bl",
+  "outputs": {
+   "r13": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F3",
+  "inputs": {
+   "rbx": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, bl",
+  "outputs": {
+   "r14": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6FB",
+  "inputs": {
+   "rbx": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, bl",
+  "outputs": {
+   "r15": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C4",
+  "inputs": {
+   "rax": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, ah",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6CC",
+  "inputs": {
+   "rax": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, ah",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D4",
+  "inputs": {
+   "rax": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, ah",
+  "outputs": {
+   "rdx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6DC",
+  "inputs": {
+   "rax": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, ah",
+  "outputs": {
+   "rbx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E4",
+  "inputs": {
+   "rax": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, ah",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "8000000000000000"
+  }
+ },
+ {
+  "data": "0FB6EC",
+  "inputs": {
+   "rax": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, ah",
+  "outputs": {
+   "rbp": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F4",
+  "inputs": {
+   "rax": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, ah",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FF00000000000000"
+  }
+ },
+ {
+  "data": "0FB6FC",
+  "inputs": {
+   "rax": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, ah",
+  "outputs": {
+   "rdi": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C5",
+  "inputs": {
+   "rcx": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, ch",
+  "outputs": {
+   "rax": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6CD",
+  "inputs": {
+   "rcx": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, ch",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D5",
+  "inputs": {
+   "rcx": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, ch",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6DD",
+  "inputs": {
+   "rcx": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, ch",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E5",
+  "inputs": {
+   "rcx": "0300000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, ch",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0000000000000000"
+  }
+ },
+ {
+  "data": "0FB6ED",
+  "inputs": {
+   "rcx": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, ch",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F5",
+  "inputs": {
+   "rcx": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, ch",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "0FB6FD",
+  "inputs": {
+   "rcx": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, ch",
+  "outputs": {
+   "rdi": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C6",
+  "inputs": {
+   "rdx": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, dh",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6CE",
+  "inputs": {
+   "rdx": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, dh",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D6",
+  "inputs": {
+   "rdx": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, dh",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6DE",
+  "inputs": {
+   "rdx": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, dh",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E6",
+  "inputs": {
+   "rdx": "7F00000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, dh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0000000000000000"
+  }
+ },
+ {
+  "data": "0FB6EE",
+  "inputs": {
+   "rdx": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, dh",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F6",
+  "inputs": {
+   "rdx": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, dh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "0FB6FE",
+  "inputs": {
+   "rdx": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, dh",
+  "outputs": {
+   "rdi": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6C7",
+  "inputs": {
+   "rbx": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, bh",
+  "outputs": {
+   "rax": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6CF",
+  "inputs": {
+   "rbx": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, bh",
+  "outputs": {
+   "rcx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6D7",
+  "inputs": {
+   "rbx": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, bh",
+  "outputs": {
+   "rdx": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6DF",
+  "inputs": {
+   "rbx": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, bh",
+  "outputs": {
+   "rbx": "3C00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6E7",
+  "inputs": {
+   "rbx": "5050505000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, bh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "5000000000000000"
+  }
+ },
+ {
+  "data": "0FB6EF",
+  "inputs": {
+   "rbx": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, bh",
+  "outputs": {
+   "rbp": "7900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "0FB6F7",
+  "inputs": {
+   "rbx": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, bh",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FF00000000000000"
+  }
+ },
+ {
+  "data": "0FB6FF",
+  "inputs": {
+   "rbx": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, bh",
+  "outputs": {
+   "rdi": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6C4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx eax, spl",
+  "outputs": {
+   "rax": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx ecx, spl",
+  "outputs": {
+   "rcx": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6D4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx edx, spl",
+  "outputs": {
+   "rdx": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6DC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx ebx, spl",
+  "outputs": {
+   "rbx": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6E4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, spl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "2000000000000000"
+  }
+ },
+ {
+  "data": "400FB6EC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx ebp, spl",
+  "outputs": {
+   "rbp": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6F4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esi, spl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "2000000000000000"
+  }
+ },
+ {
+  "data": "400FB6FC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx edi, spl",
+  "outputs": {
+   "rdi": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r8d, spl",
+  "outputs": {
+   "r8": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r9d, spl",
+  "outputs": {
+   "r9": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r10d, spl",
+  "outputs": {
+   "r10": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6DC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r11d, spl",
+  "outputs": {
+   "r11": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r12d, spl",
+  "outputs": {
+   "r12": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6EC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r13d, spl",
+  "outputs": {
+   "r13": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r14d, spl",
+  "outputs": {
+   "r14": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6FC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r15d, spl",
+  "outputs": {
+   "r15": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rax, spl",
+  "outputs": {
+   "rax": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rcx, spl",
+  "outputs": {
+   "rcx": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rdx, spl",
+  "outputs": {
+   "rdx": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6DC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rbx, spl",
+  "outputs": {
+   "rbx": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, spl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "2000000000000000"
+  }
+ },
+ {
+  "data": "480FB6EC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rbp, spl",
+  "outputs": {
+   "rbp": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsi, spl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "2000000000000000"
+  }
+ },
+ {
+  "data": "480FB6FC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rdi, spl",
+  "outputs": {
+   "rdi": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r8, spl",
+  "outputs": {
+   "r8": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6CC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r9, spl",
+  "outputs": {
+   "r9": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r10, spl",
+  "outputs": {
+   "r10": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6DC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r11, spl",
+  "outputs": {
+   "r11": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r12, spl",
+  "outputs": {
+   "r12": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6EC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r13, spl",
+  "outputs": {
+   "r13": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F4",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r14, spl",
+  "outputs": {
+   "r14": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6FC",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx r15, spl",
+  "outputs": {
+   "r15": "2000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6C5",
+  "inputs": {
+   "rbp": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, bpl",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6CD",
+  "inputs": {
+   "rbp": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, bpl",
+  "outputs": {
+   "rcx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6D5",
+  "inputs": {
+   "rbp": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, bpl",
+  "outputs": {
+   "rdx": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6DD",
+  "inputs": {
+   "rbp": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, bpl",
+  "outputs": {
+   "rbx": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6E5",
+  "inputs": {
+   "rbp": "0400008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, bpl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0400000000000000"
+  }
+ },
+ {
+  "data": "400FB6ED",
+  "inputs": {
+   "rbp": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, bpl",
+  "outputs": {
+   "rbp": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6F5",
+  "inputs": {
+   "rbp": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, bpl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0600000000000000"
+  }
+ },
+ {
+  "data": "400FB6FD",
+  "inputs": {
+   "rbp": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, bpl",
+  "outputs": {
+   "rdi": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C5",
+  "inputs": {
+   "rbp": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, bpl",
+  "outputs": {
+   "r8": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6CD",
+  "inputs": {
+   "rbp": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, bpl",
+  "outputs": {
+   "r9": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D5",
+  "inputs": {
+   "rbp": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, bpl",
+  "outputs": {
+   "r10": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6DD",
+  "inputs": {
+   "rbp": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, bpl",
+  "outputs": {
+   "r11": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E5",
+  "inputs": {
+   "rbp": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, bpl",
+  "outputs": {
+   "r12": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6ED",
+  "inputs": {
+   "rbp": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, bpl",
+  "outputs": {
+   "r13": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F5",
+  "inputs": {
+   "rbp": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, bpl",
+  "outputs": {
+   "r14": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6FD",
+  "inputs": {
+   "rbp": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, bpl",
+  "outputs": {
+   "r15": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C5",
+  "inputs": {
+   "rbp": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, bpl",
+  "outputs": {
+   "rax": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6CD",
+  "inputs": {
+   "rbp": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, bpl",
+  "outputs": {
+   "rcx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D5",
+  "inputs": {
+   "rbp": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, bpl",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6DD",
+  "inputs": {
+   "rbp": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, bpl",
+  "outputs": {
+   "rbx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E5",
+  "inputs": {
+   "rbp": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, bpl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "7F00000000000000"
+  }
+ },
+ {
+  "data": "480FB6ED",
+  "inputs": {
+   "rbp": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, bpl",
+  "outputs": {
+   "rbp": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F5",
+  "inputs": {
+   "rbp": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, bpl",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "8100000000000000"
+  }
+ },
+ {
+  "data": "480FB6FD",
+  "inputs": {
+   "rbp": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, bpl",
+  "outputs": {
+   "rdi": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C5",
+  "inputs": {
+   "rbp": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, bpl",
+  "outputs": {
+   "r8": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6CD",
+  "inputs": {
+   "rbp": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, bpl",
+  "outputs": {
+   "r9": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D5",
+  "inputs": {
+   "rbp": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, bpl",
+  "outputs": {
+   "r10": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6DD",
+  "inputs": {
+   "rbp": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, bpl",
+  "outputs": {
+   "r11": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E5",
+  "inputs": {
+   "rbp": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, bpl",
+  "outputs": {
+   "r12": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6ED",
+  "inputs": {
+   "rbp": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, bpl",
+  "outputs": {
+   "r13": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F5",
+  "inputs": {
+   "rbp": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, bpl",
+  "outputs": {
+   "r14": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6FD",
+  "inputs": {
+   "rbp": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, bpl",
+  "outputs": {
+   "r15": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6C6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0800000000000000"
+  },
+  "instr": "movzx eax, sil",
+  "outputs": {
+   "rax": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "2100000000000000"
+  },
+  "instr": "movzx ecx, sil",
+  "outputs": {
+   "rcx": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6D6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "7E00000000000000"
+  },
+  "instr": "movzx edx, sil",
+  "outputs": {
+   "rdx": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6DE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "7F00000000000000"
+  },
+  "instr": "movzx ebx, sil",
+  "outputs": {
+   "rbx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6E6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "8000000000000000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, sil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "8000000000000000"
+  }
+ },
+ {
+  "data": "400FB6EE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "9900000000000000"
+  },
+  "instr": "movzx ebp, sil",
+  "outputs": {
+   "rbp": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6F6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FE7F000000000000"
+  },
+  "instr": "movzx esi, sil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FE00000000000000"
+  }
+ },
+ {
+  "data": "400FB6FE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FF7F000000000000"
+  },
+  "instr": "movzx edi, sil",
+  "outputs": {
+   "rdi": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0080000000000000"
+  },
+  "instr": "movzx r8d, sil",
+  "outputs": {
+   "r8": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "2828282800000000"
+  },
+  "instr": "movzx r9d, sil",
+  "outputs": {
+   "r9": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "CC3C412D00000000"
+  },
+  "instr": "movzx r10d, sil",
+  "outputs": {
+   "r10": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6DE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "5050505000000000"
+  },
+  "instr": "movzx r11d, sil",
+  "outputs": {
+   "r11": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "9979825A00000000"
+  },
+  "instr": "movzx r12d, sil",
+  "outputs": {
+   "r12": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6EE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FEFFFF7F00000000"
+  },
+  "instr": "movzx r13d, sil",
+  "outputs": {
+   "r13": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FFFFFF7F00000000"
+  },
+  "instr": "movzx r14d, sil",
+  "outputs": {
+   "r14": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6FE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000008000000000"
+  },
+  "instr": "movzx r15d, sil",
+  "outputs": {
+   "r15": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0100008000000000"
+  },
+  "instr": "movzx rax, sil",
+  "outputs": {
+   "rax": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0200008000000000"
+  },
+  "instr": "movzx rcx, sil",
+  "outputs": {
+   "rcx": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0300008000000000"
+  },
+  "instr": "movzx rdx, sil",
+  "outputs": {
+   "rdx": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6DE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0400008000000000"
+  },
+  "instr": "movzx rbx, sil",
+  "outputs": {
+   "rbx": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0500008000000000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, sil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0500000000000000"
+  }
+ },
+ {
+  "data": "480FB6EE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0600008000000000"
+  },
+  "instr": "movzx rbp, sil",
+  "outputs": {
+   "rbp": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0700008000000000"
+  },
+  "instr": "movzx rsi, sil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0700000000000000"
+  }
+ },
+ {
+  "data": "480FB6FE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0800008000000000"
+  },
+  "instr": "movzx rdi, sil",
+  "outputs": {
+   "rdi": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FFFFFF8F00000000"
+  },
+  "instr": "movzx r8, sil",
+  "outputs": {
+   "r8": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6CE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "32F304B500000000"
+  },
+  "instr": "movzx r9, sil",
+  "outputs": {
+   "r9": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FEFFFFFFFFFFFF7F"
+  },
+  "instr": "movzx r10, sil",
+  "outputs": {
+   "r10": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6DE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "FFFFFFFFFFFFFF7F"
+  },
+  "instr": "movzx r11, sil",
+  "outputs": {
+   "r11": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0000000000000080"
+  },
+  "instr": "movzx r12, sil",
+  "outputs": {
+   "r12": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6EE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "0100000000000080"
+  },
+  "instr": "movzx r13, sil",
+  "outputs": {
+   "r13": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F6",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "00000080FFFFFFFF"
+  },
+  "instr": "movzx r14, sil",
+  "outputs": {
+   "r14": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6FE",
+  "inputs": {
+   "rip": "E607C9EFF77F0000",
+   "rsi": "01000080FFFFFFFF"
+  },
+  "instr": "movzx r15, sil",
+  "outputs": {
+   "r15": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6C7",
+  "inputs": {
+   "rdi": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, dil",
+  "outputs": {
+   "rax": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6CF",
+  "inputs": {
+   "rdi": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, dil",
+  "outputs": {
+   "rcx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6D7",
+  "inputs": {
+   "rdi": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, dil",
+  "outputs": {
+   "rdx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6DF",
+  "inputs": {
+   "rdi": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, dil",
+  "outputs": {
+   "rbx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6E7",
+  "inputs": {
+   "rdi": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, dil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "8000000000000000"
+  }
+ },
+ {
+  "data": "400FB6EF",
+  "inputs": {
+   "rdi": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, dil",
+  "outputs": {
+   "rbp": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "400FB6F7",
+  "inputs": {
+   "rdi": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, dil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FF00000000000000"
+  }
+ },
+ {
+  "data": "400FB6FF",
+  "inputs": {
+   "rdi": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, dil",
+  "outputs": {
+   "rdi": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6C7",
+  "inputs": {
+   "rdi": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, dil",
+  "outputs": {
+   "r8": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6CF",
+  "inputs": {
+   "rdi": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, dil",
+  "outputs": {
+   "r9": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6D7",
+  "inputs": {
+   "rdi": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, dil",
+  "outputs": {
+   "r10": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6DF",
+  "inputs": {
+   "rdi": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, dil",
+  "outputs": {
+   "r11": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6E7",
+  "inputs": {
+   "rdi": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, dil",
+  "outputs": {
+   "r12": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6EF",
+  "inputs": {
+   "rdi": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, dil",
+  "outputs": {
+   "r13": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6F7",
+  "inputs": {
+   "rdi": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, dil",
+  "outputs": {
+   "r14": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "440FB6FF",
+  "inputs": {
+   "rdi": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, dil",
+  "outputs": {
+   "r15": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6C7",
+  "inputs": {
+   "rdi": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, dil",
+  "outputs": {
+   "rax": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6CF",
+  "inputs": {
+   "rdi": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, dil",
+  "outputs": {
+   "rcx": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6D7",
+  "inputs": {
+   "rdi": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, dil",
+  "outputs": {
+   "rdx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6DF",
+  "inputs": {
+   "rdi": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, dil",
+  "outputs": {
+   "rbx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6E7",
+  "inputs": {
+   "rdi": "9900000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, dil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "9900000000000000"
+  }
+ },
+ {
+  "data": "480FB6EF",
+  "inputs": {
+   "rdi": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, dil",
+  "outputs": {
+   "rbp": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "480FB6F7",
+  "inputs": {
+   "rdi": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, dil",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FF00000000000000"
+  }
+ },
+ {
+  "data": "480FB6FF",
+  "inputs": {
+   "rdi": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, dil",
+  "outputs": {
+   "rdi": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6C7",
+  "inputs": {
+   "rdi": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, dil",
+  "outputs": {
+   "r8": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6CF",
+  "inputs": {
+   "rdi": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, dil",
+  "outputs": {
+   "r9": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6D7",
+  "inputs": {
+   "rdi": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, dil",
+  "outputs": {
+   "r10": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6DF",
+  "inputs": {
+   "rdi": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, dil",
+  "outputs": {
+   "r11": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6E7",
+  "inputs": {
+   "rdi": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, dil",
+  "outputs": {
+   "r12": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6EF",
+  "inputs": {
+   "rdi": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, dil",
+  "outputs": {
+   "r13": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6F7",
+  "inputs": {
+   "rdi": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, dil",
+  "outputs": {
+   "r14": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4C0FB6FF",
+  "inputs": {
+   "rdi": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, dil",
+  "outputs": {
+   "r15": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C0",
+  "inputs": {
+   "r8": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r8b",
+  "outputs": {
+   "rax": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C8",
+  "inputs": {
+   "r8": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r8b",
+  "outputs": {
+   "rcx": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D0",
+  "inputs": {
+   "r8": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r8b",
+  "outputs": {
+   "rdx": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D8",
+  "inputs": {
+   "r8": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r8b",
+  "outputs": {
+   "rbx": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E0",
+  "inputs": {
+   "r8": "0600008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r8b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0600000000000000"
+  }
+ },
+ {
+  "data": "410FB6E8",
+  "inputs": {
+   "r8": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r8b",
+  "outputs": {
+   "rbp": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F0",
+  "inputs": {
+   "r8": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r8b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0800000000000000"
+  }
+ },
+ {
+  "data": "410FB6F8",
+  "inputs": {
+   "r8": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r8b",
+  "outputs": {
+   "rdi": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C0",
+  "inputs": {
+   "r8": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r8b",
+  "outputs": {
+   "r8": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C8",
+  "inputs": {
+   "r8": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r8b",
+  "outputs": {
+   "r9": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D0",
+  "inputs": {
+   "r8": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r8b",
+  "outputs": {
+   "r10": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D8",
+  "inputs": {
+   "r8": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r8b",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E0",
+  "inputs": {
+   "r8": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r8b",
+  "outputs": {
+   "r12": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E8",
+  "inputs": {
+   "r8": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r8b",
+  "outputs": {
+   "r13": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F0",
+  "inputs": {
+   "r8": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r8b",
+  "outputs": {
+   "r14": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F8",
+  "inputs": {
+   "r8": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r8b",
+  "outputs": {
+   "r15": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C0",
+  "inputs": {
+   "r8": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r8b",
+  "outputs": {
+   "rax": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C8",
+  "inputs": {
+   "r8": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r8b",
+  "outputs": {
+   "rcx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D0",
+  "inputs": {
+   "r8": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r8b",
+  "outputs": {
+   "rdx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D8",
+  "inputs": {
+   "r8": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r8b",
+  "outputs": {
+   "rbx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E0",
+  "inputs": {
+   "r8": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r8b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "8100000000000000"
+  }
+ },
+ {
+  "data": "490FB6E8",
+  "inputs": {
+   "r8": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r8b",
+  "outputs": {
+   "rbp": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F0",
+  "inputs": {
+   "r8": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r8b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "490FB6F8",
+  "inputs": {
+   "r8": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r8b",
+  "outputs": {
+   "rdi": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C0",
+  "inputs": {
+   "r8": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r8b",
+  "outputs": {
+   "r8": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C8",
+  "inputs": {
+   "r8": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r8b",
+  "outputs": {
+   "r9": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D0",
+  "inputs": {
+   "r8": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r8b",
+  "outputs": {
+   "r10": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D8",
+  "inputs": {
+   "r8": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r8b",
+  "outputs": {
+   "r11": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E0",
+  "inputs": {
+   "r8": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r8b",
+  "outputs": {
+   "r12": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E8",
+  "inputs": {
+   "r8": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r8b",
+  "outputs": {
+   "r13": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F0",
+  "inputs": {
+   "r8": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r8b",
+  "outputs": {
+   "r14": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F8",
+  "inputs": {
+   "r8": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r8b",
+  "outputs": {
+   "r15": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C1",
+  "inputs": {
+   "r9": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r9b",
+  "outputs": {
+   "rax": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C9",
+  "inputs": {
+   "r9": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r9b",
+  "outputs": {
+   "rcx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D1",
+  "inputs": {
+   "r9": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r9b",
+  "outputs": {
+   "rdx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D9",
+  "inputs": {
+   "r9": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r9b",
+  "outputs": {
+   "rbx": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E1",
+  "inputs": {
+   "r9": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r9b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "FE00000000000000"
+  }
+ },
+ {
+  "data": "410FB6E9",
+  "inputs": {
+   "r9": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r9b",
+  "outputs": {
+   "rbp": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F1",
+  "inputs": {
+   "r9": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r9b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "410FB6F9",
+  "inputs": {
+   "r9": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r9b",
+  "outputs": {
+   "rdi": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C1",
+  "inputs": {
+   "r9": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r9b",
+  "outputs": {
+   "r8": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C9",
+  "inputs": {
+   "r9": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r9b",
+  "outputs": {
+   "r9": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D1",
+  "inputs": {
+   "r9": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r9b",
+  "outputs": {
+   "r10": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D9",
+  "inputs": {
+   "r9": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r9b",
+  "outputs": {
+   "r11": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E1",
+  "inputs": {
+   "r9": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r9b",
+  "outputs": {
+   "r12": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E9",
+  "inputs": {
+   "r9": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r9b",
+  "outputs": {
+   "r13": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F1",
+  "inputs": {
+   "r9": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r9b",
+  "outputs": {
+   "r14": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F9",
+  "inputs": {
+   "r9": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r9b",
+  "outputs": {
+   "r15": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C1",
+  "inputs": {
+   "r9": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r9b",
+  "outputs": {
+   "rax": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C9",
+  "inputs": {
+   "r9": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r9b",
+  "outputs": {
+   "rcx": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D1",
+  "inputs": {
+   "r9": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r9b",
+  "outputs": {
+   "rdx": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D9",
+  "inputs": {
+   "r9": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r9b",
+  "outputs": {
+   "rbx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E1",
+  "inputs": {
+   "r9": "0700008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r9b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0700000000000000"
+  }
+ },
+ {
+  "data": "490FB6E9",
+  "inputs": {
+   "r9": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r9b",
+  "outputs": {
+   "rbp": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F1",
+  "inputs": {
+   "r9": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r9b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FF00000000000000"
+  }
+ },
+ {
+  "data": "490FB6F9",
+  "inputs": {
+   "r9": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r9b",
+  "outputs": {
+   "rdi": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C1",
+  "inputs": {
+   "r9": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r9b",
+  "outputs": {
+   "r8": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C9",
+  "inputs": {
+   "r9": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r9b",
+  "outputs": {
+   "r9": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D1",
+  "inputs": {
+   "r9": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r9b",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D9",
+  "inputs": {
+   "r9": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r9b",
+  "outputs": {
+   "r11": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E1",
+  "inputs": {
+   "r9": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r9b",
+  "outputs": {
+   "r12": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E9",
+  "inputs": {
+   "r9": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r9b",
+  "outputs": {
+   "r13": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F1",
+  "inputs": {
+   "r9": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r9b",
+  "outputs": {
+   "r14": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F9",
+  "inputs": {
+   "r9": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r9b",
+  "outputs": {
+   "r15": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C2",
+  "inputs": {
+   "r10": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r10b",
+  "outputs": {
+   "rax": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6CA",
+  "inputs": {
+   "r10": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r10b",
+  "outputs": {
+   "rcx": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D2",
+  "inputs": {
+   "r10": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r10b",
+  "outputs": {
+   "rdx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6DA",
+  "inputs": {
+   "r10": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r10b",
+  "outputs": {
+   "rbx": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E2",
+  "inputs": {
+   "r10": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r10b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "FF00000000000000"
+  }
+ },
+ {
+  "data": "410FB6EA",
+  "inputs": {
+   "r10": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r10b",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F2",
+  "inputs": {
+   "r10": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r10b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0100000000000000"
+  }
+ },
+ {
+  "data": "410FB6FA",
+  "inputs": {
+   "r10": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r10b",
+  "outputs": {
+   "rdi": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C2",
+  "inputs": {
+   "r10": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r10b",
+  "outputs": {
+   "r8": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6CA",
+  "inputs": {
+   "r10": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r10b",
+  "outputs": {
+   "r9": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D2",
+  "inputs": {
+   "r10": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r10b",
+  "outputs": {
+   "r10": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6DA",
+  "inputs": {
+   "r10": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r10b",
+  "outputs": {
+   "r11": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E2",
+  "inputs": {
+   "r10": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r10b",
+  "outputs": {
+   "r12": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6EA",
+  "inputs": {
+   "r10": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r10b",
+  "outputs": {
+   "r13": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F2",
+  "inputs": {
+   "r10": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r10b",
+  "outputs": {
+   "r14": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6FA",
+  "inputs": {
+   "r10": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r10b",
+  "outputs": {
+   "r15": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C2",
+  "inputs": {
+   "r10": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r10b",
+  "outputs": {
+   "rax": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6CA",
+  "inputs": {
+   "r10": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r10b",
+  "outputs": {
+   "rcx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D2",
+  "inputs": {
+   "r10": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r10b",
+  "outputs": {
+   "rdx": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6DA",
+  "inputs": {
+   "r10": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r10b",
+  "outputs": {
+   "rbx": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E2",
+  "inputs": {
+   "r10": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r10b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "FF00000000000000"
+  }
+ },
+ {
+  "data": "490FB6EA",
+  "inputs": {
+   "r10": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r10b",
+  "outputs": {
+   "rbp": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F2",
+  "inputs": {
+   "r10": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r10b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "2800000000000000"
+  }
+ },
+ {
+  "data": "490FB6FA",
+  "inputs": {
+   "r10": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r10b",
+  "outputs": {
+   "rdi": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C2",
+  "inputs": {
+   "r10": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r10b",
+  "outputs": {
+   "r8": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6CA",
+  "inputs": {
+   "r10": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r10b",
+  "outputs": {
+   "r9": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D2",
+  "inputs": {
+   "r10": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r10b",
+  "outputs": {
+   "r10": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6DA",
+  "inputs": {
+   "r10": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r10b",
+  "outputs": {
+   "r11": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E2",
+  "inputs": {
+   "r10": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r10b",
+  "outputs": {
+   "r12": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6EA",
+  "inputs": {
+   "r10": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r10b",
+  "outputs": {
+   "r13": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F2",
+  "inputs": {
+   "r10": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r10b",
+  "outputs": {
+   "r14": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6FA",
+  "inputs": {
+   "r10": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r10b",
+  "outputs": {
+   "r15": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C3",
+  "inputs": {
+   "r11": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r11b",
+  "outputs": {
+   "rax": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6CB",
+  "inputs": {
+   "r11": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r11b",
+  "outputs": {
+   "rcx": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D3",
+  "inputs": {
+   "r11": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r11b",
+  "outputs": {
+   "rdx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6DB",
+  "inputs": {
+   "r11": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r11b",
+  "outputs": {
+   "rbx": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E3",
+  "inputs": {
+   "r11": "0800008000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r11b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0800000000000000"
+  }
+ },
+ {
+  "data": "410FB6EB",
+  "inputs": {
+   "r11": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r11b",
+  "outputs": {
+   "rbp": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F3",
+  "inputs": {
+   "r11": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r11b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "3200000000000000"
+  }
+ },
+ {
+  "data": "410FB6FB",
+  "inputs": {
+   "r11": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r11b",
+  "outputs": {
+   "rdi": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C3",
+  "inputs": {
+   "r11": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r11b",
+  "outputs": {
+   "r8": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6CB",
+  "inputs": {
+   "r11": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r11b",
+  "outputs": {
+   "r9": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D3",
+  "inputs": {
+   "r11": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r11b",
+  "outputs": {
+   "r10": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6DB",
+  "inputs": {
+   "r11": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r11b",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E3",
+  "inputs": {
+   "r11": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r11b",
+  "outputs": {
+   "r12": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6EB",
+  "inputs": {
+   "r11": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r11b",
+  "outputs": {
+   "r13": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F3",
+  "inputs": {
+   "r11": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r11b",
+  "outputs": {
+   "r14": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6FB",
+  "inputs": {
+   "r11": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r11b",
+  "outputs": {
+   "r15": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C3",
+  "inputs": {
+   "r11": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r11b",
+  "outputs": {
+   "rax": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6CB",
+  "inputs": {
+   "r11": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r11b",
+  "outputs": {
+   "rcx": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D3",
+  "inputs": {
+   "r11": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r11b",
+  "outputs": {
+   "rdx": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6DB",
+  "inputs": {
+   "r11": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r11b",
+  "outputs": {
+   "rbx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E3",
+  "inputs": {
+   "r11": "0000000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r11b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0000000000000000"
+  }
+ },
+ {
+  "data": "490FB6EB",
+  "inputs": {
+   "r11": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r11b",
+  "outputs": {
+   "rbp": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F3",
+  "inputs": {
+   "r11": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r11b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0200000000000000"
+  }
+ },
+ {
+  "data": "490FB6FB",
+  "inputs": {
+   "r11": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r11b",
+  "outputs": {
+   "rdi": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C3",
+  "inputs": {
+   "r11": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r11b",
+  "outputs": {
+   "r8": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6CB",
+  "inputs": {
+   "r11": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r11b",
+  "outputs": {
+   "r9": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D3",
+  "inputs": {
+   "r11": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r11b",
+  "outputs": {
+   "r10": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6DB",
+  "inputs": {
+   "r11": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r11b",
+  "outputs": {
+   "r11": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E3",
+  "inputs": {
+   "r11": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r11b",
+  "outputs": {
+   "r12": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6EB",
+  "inputs": {
+   "r11": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r11b",
+  "outputs": {
+   "r13": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F3",
+  "inputs": {
+   "r11": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r11b",
+  "outputs": {
+   "r14": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6FB",
+  "inputs": {
+   "r11": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r11b",
+  "outputs": {
+   "r15": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C4",
+  "inputs": {
+   "r12": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r12b",
+  "outputs": {
+   "rax": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6CC",
+  "inputs": {
+   "r12": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r12b",
+  "outputs": {
+   "rcx": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D4",
+  "inputs": {
+   "r12": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r12b",
+  "outputs": {
+   "rdx": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6DC",
+  "inputs": {
+   "r12": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r12b",
+  "outputs": {
+   "rbx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E4",
+  "inputs": {
+   "r12": "0080000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r12b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0000000000000000"
+  }
+ },
+ {
+  "data": "410FB6EC",
+  "inputs": {
+   "r12": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r12b",
+  "outputs": {
+   "rbp": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F4",
+  "inputs": {
+   "r12": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r12b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "CC00000000000000"
+  }
+ },
+ {
+  "data": "410FB6FC",
+  "inputs": {
+   "r12": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r12b",
+  "outputs": {
+   "rdi": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C4",
+  "inputs": {
+   "r12": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r12b",
+  "outputs": {
+   "r8": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6CC",
+  "inputs": {
+   "r12": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r12b",
+  "outputs": {
+   "r9": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D4",
+  "inputs": {
+   "r12": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r12b",
+  "outputs": {
+   "r10": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6DC",
+  "inputs": {
+   "r12": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r12b",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E4",
+  "inputs": {
+   "r12": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r12b",
+  "outputs": {
+   "r12": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6EC",
+  "inputs": {
+   "r12": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r12b",
+  "outputs": {
+   "r13": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F4",
+  "inputs": {
+   "r12": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r12b",
+  "outputs": {
+   "r14": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6FC",
+  "inputs": {
+   "r12": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r12b",
+  "outputs": {
+   "r15": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C4",
+  "inputs": {
+   "r12": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r12b",
+  "outputs": {
+   "rax": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6CC",
+  "inputs": {
+   "r12": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r12b",
+  "outputs": {
+   "rcx": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D4",
+  "inputs": {
+   "r12": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r12b",
+  "outputs": {
+   "rdx": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6DC",
+  "inputs": {
+   "r12": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r12b",
+  "outputs": {
+   "rbx": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E4",
+  "inputs": {
+   "r12": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r12b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "FF00000000000000"
+  }
+ },
+ {
+  "data": "490FB6EC",
+  "inputs": {
+   "r12": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r12b",
+  "outputs": {
+   "rbp": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F4",
+  "inputs": {
+   "r12": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r12b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FE00000000000000"
+  }
+ },
+ {
+  "data": "490FB6FC",
+  "inputs": {
+   "r12": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r12b",
+  "outputs": {
+   "rdi": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C4",
+  "inputs": {
+   "r12": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r12b",
+  "outputs": {
+   "r8": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6CC",
+  "inputs": {
+   "r12": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r12b",
+  "outputs": {
+   "r9": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D4",
+  "inputs": {
+   "r12": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r12b",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6DC",
+  "inputs": {
+   "r12": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r12b",
+  "outputs": {
+   "r11": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E4",
+  "inputs": {
+   "r12": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r12b",
+  "outputs": {
+   "r12": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6EC",
+  "inputs": {
+   "r12": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r12b",
+  "outputs": {
+   "r13": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F4",
+  "inputs": {
+   "r12": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r12b",
+  "outputs": {
+   "r14": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6FC",
+  "inputs": {
+   "r12": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r12b",
+  "outputs": {
+   "r15": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C5",
+  "inputs": {
+   "r13": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r13b",
+  "outputs": {
+   "rax": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6CD",
+  "inputs": {
+   "r13": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r13b",
+  "outputs": {
+   "rcx": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D5",
+  "inputs": {
+   "r13": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r13b",
+  "outputs": {
+   "rdx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6DD",
+  "inputs": {
+   "r13": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r13b",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E5",
+  "inputs": {
+   "r13": "0100000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r13b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0100000000000000"
+  }
+ },
+ {
+  "data": "410FB6ED",
+  "inputs": {
+   "r13": "0200000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r13b",
+  "outputs": {
+   "rbp": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F5",
+  "inputs": {
+   "r13": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r13b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0300000000000000"
+  }
+ },
+ {
+  "data": "410FB6FD",
+  "inputs": {
+   "r13": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r13b",
+  "outputs": {
+   "rdi": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C5",
+  "inputs": {
+   "r13": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r13b",
+  "outputs": {
+   "r8": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6CD",
+  "inputs": {
+   "r13": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r13b",
+  "outputs": {
+   "r9": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D5",
+  "inputs": {
+   "r13": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r13b",
+  "outputs": {
+   "r10": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6DD",
+  "inputs": {
+   "r13": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r13b",
+  "outputs": {
+   "r11": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E5",
+  "inputs": {
+   "r13": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r13b",
+  "outputs": {
+   "r12": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6ED",
+  "inputs": {
+   "r13": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r13b",
+  "outputs": {
+   "r13": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F5",
+  "inputs": {
+   "r13": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r13b",
+  "outputs": {
+   "r14": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6FD",
+  "inputs": {
+   "r13": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r13b",
+  "outputs": {
+   "r15": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C5",
+  "inputs": {
+   "r13": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r13b",
+  "outputs": {
+   "rax": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6CD",
+  "inputs": {
+   "r13": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r13b",
+  "outputs": {
+   "rcx": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D5",
+  "inputs": {
+   "r13": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r13b",
+  "outputs": {
+   "rdx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6DD",
+  "inputs": {
+   "r13": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r13b",
+  "outputs": {
+   "rbx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E5",
+  "inputs": {
+   "r13": "2828282800000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r13b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "2800000000000000"
+  }
+ },
+ {
+  "data": "490FB6ED",
+  "inputs": {
+   "r13": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r13b",
+  "outputs": {
+   "rbp": "CC00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F5",
+  "inputs": {
+   "r13": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r13b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "5000000000000000"
+  }
+ },
+ {
+  "data": "490FB6FD",
+  "inputs": {
+   "r13": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r13b",
+  "outputs": {
+   "rdi": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C5",
+  "inputs": {
+   "r13": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r13b",
+  "outputs": {
+   "r8": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6CD",
+  "inputs": {
+   "r13": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r13b",
+  "outputs": {
+   "r9": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D5",
+  "inputs": {
+   "r13": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r13b",
+  "outputs": {
+   "r10": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6DD",
+  "inputs": {
+   "r13": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r13b",
+  "outputs": {
+   "r11": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E5",
+  "inputs": {
+   "r13": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r13b",
+  "outputs": {
+   "r12": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6ED",
+  "inputs": {
+   "r13": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r13b",
+  "outputs": {
+   "r13": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F5",
+  "inputs": {
+   "r13": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r13b",
+  "outputs": {
+   "r14": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6FD",
+  "inputs": {
+   "r13": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r13b",
+  "outputs": {
+   "r15": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C6",
+  "inputs": {
+   "r14": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r14b",
+  "outputs": {
+   "rax": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6CE",
+  "inputs": {
+   "r14": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r14b",
+  "outputs": {
+   "rcx": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D6",
+  "inputs": {
+   "r14": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r14b",
+  "outputs": {
+   "rdx": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6DE",
+  "inputs": {
+   "r14": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r14b",
+  "outputs": {
+   "rbx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E6",
+  "inputs": {
+   "r14": "32F304B500000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r14b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "3200000000000000"
+  }
+ },
+ {
+  "data": "410FB6EE",
+  "inputs": {
+   "r14": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r14b",
+  "outputs": {
+   "rbp": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F6",
+  "inputs": {
+   "r14": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r14b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "FF00000000000000"
+  }
+ },
+ {
+  "data": "410FB6FE",
+  "inputs": {
+   "r14": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r14b",
+  "outputs": {
+   "rdi": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C6",
+  "inputs": {
+   "r14": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r14b",
+  "outputs": {
+   "r8": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6CE",
+  "inputs": {
+   "r14": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r14b",
+  "outputs": {
+   "r9": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D6",
+  "inputs": {
+   "r14": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r14b",
+  "outputs": {
+   "r10": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6DE",
+  "inputs": {
+   "r14": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r14b",
+  "outputs": {
+   "r11": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E6",
+  "inputs": {
+   "r14": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r14b",
+  "outputs": {
+   "r12": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6EE",
+  "inputs": {
+   "r14": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r14b",
+  "outputs": {
+   "r13": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F6",
+  "inputs": {
+   "r14": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r14b",
+  "outputs": {
+   "r14": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6FE",
+  "inputs": {
+   "r14": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r14b",
+  "outputs": {
+   "r15": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C6",
+  "inputs": {
+   "r14": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r14b",
+  "outputs": {
+   "rax": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6CE",
+  "inputs": {
+   "r14": "FFFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r14b",
+  "outputs": {
+   "rcx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D6",
+  "inputs": {
+   "r14": "0000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r14b",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6DE",
+  "inputs": {
+   "r14": "0100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r14b",
+  "outputs": {
+   "rbx": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E6",
+  "inputs": {
+   "r14": "0200000000000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r14b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "0200000000000000"
+  }
+ },
+ {
+  "data": "490FB6EE",
+  "inputs": {
+   "r14": "0300000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r14b",
+  "outputs": {
+   "rbp": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F6",
+  "inputs": {
+   "r14": "0400000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r14b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0400000000000000"
+  }
+ },
+ {
+  "data": "490FB6FE",
+  "inputs": {
+   "r14": "0500000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r14b",
+  "outputs": {
+   "rdi": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C6",
+  "inputs": {
+   "r14": "0600000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r14b",
+  "outputs": {
+   "r8": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6CE",
+  "inputs": {
+   "r14": "0700000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r14b",
+  "outputs": {
+   "r9": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D6",
+  "inputs": {
+   "r14": "0800000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r14b",
+  "outputs": {
+   "r10": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6DE",
+  "inputs": {
+   "r14": "2100000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r14b",
+  "outputs": {
+   "r11": "2100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E6",
+  "inputs": {
+   "r14": "7E00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r14b",
+  "outputs": {
+   "r12": "7E00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6EE",
+  "inputs": {
+   "r14": "7F00000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r14b",
+  "outputs": {
+   "r13": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F6",
+  "inputs": {
+   "r14": "8000000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r14b",
+  "outputs": {
+   "r14": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6FE",
+  "inputs": {
+   "r14": "9900000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r14b",
+  "outputs": {
+   "r15": "9900000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6C7",
+  "inputs": {
+   "r15": "FE7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx eax, r15b",
+  "outputs": {
+   "rax": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6CF",
+  "inputs": {
+   "r15": "FF7F000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ecx, r15b",
+  "outputs": {
+   "rcx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6D7",
+  "inputs": {
+   "r15": "0080000000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edx, r15b",
+  "outputs": {
+   "rdx": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6DF",
+  "inputs": {
+   "r15": "2828282800000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebx, r15b",
+  "outputs": {
+   "rbx": "2800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6E7",
+  "inputs": {
+   "r15": "CC3C412D00000000",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx esp, r15b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "CC00000000000000"
+  }
+ },
+ {
+  "data": "410FB6EF",
+  "inputs": {
+   "r15": "5050505000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx ebp, r15b",
+  "outputs": {
+   "rbp": "5000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "410FB6F7",
+  "inputs": {
+   "r15": "9979825A00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx esi, r15b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "9900000000000000"
+  }
+ },
+ {
+  "data": "410FB6FF",
+  "inputs": {
+   "r15": "FEFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx edi, r15b",
+  "outputs": {
+   "rdi": "FE00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6C7",
+  "inputs": {
+   "r15": "FFFFFF7F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8d, r15b",
+  "outputs": {
+   "r8": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6CF",
+  "inputs": {
+   "r15": "0000008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9d, r15b",
+  "outputs": {
+   "r9": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6D7",
+  "inputs": {
+   "r15": "0100008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10d, r15b",
+  "outputs": {
+   "r10": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6DF",
+  "inputs": {
+   "r15": "0200008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11d, r15b",
+  "outputs": {
+   "r11": "0200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6E7",
+  "inputs": {
+   "r15": "0300008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12d, r15b",
+  "outputs": {
+   "r12": "0300000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6EF",
+  "inputs": {
+   "r15": "0400008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13d, r15b",
+  "outputs": {
+   "r13": "0400000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6F7",
+  "inputs": {
+   "r15": "0500008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14d, r15b",
+  "outputs": {
+   "r14": "0500000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "450FB6FF",
+  "inputs": {
+   "r15": "0600008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15d, r15b",
+  "outputs": {
+   "r15": "0600000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6C7",
+  "inputs": {
+   "r15": "0700008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rax, r15b",
+  "outputs": {
+   "rax": "0700000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6CF",
+  "inputs": {
+   "r15": "0800008000000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rcx, r15b",
+  "outputs": {
+   "rcx": "0800000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6D7",
+  "inputs": {
+   "r15": "FFFFFF8F00000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdx, r15b",
+  "outputs": {
+   "rdx": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6DF",
+  "inputs": {
+   "r15": "32F304B500000000",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbx, r15b",
+  "outputs": {
+   "rbx": "3200000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6E7",
+  "inputs": {
+   "r15": "FEFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000",
+   "rsp": "20F93C7284000000"
+  },
+  "instr": "movzx rsp, r15b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsp": "FE00000000000000"
+  }
+ },
+ {
+  "data": "490FB6EF",
+  "inputs": {
+   "r15": "FFFFFFFFFFFFFF7F",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rbp, r15b",
+  "outputs": {
+   "rbp": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "490FB6F7",
+  "inputs": {
+   "r15": "0000000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rsi, r15b",
+  "outputs": {
+   "rip": "FC07C9EFF77F0000",
+   "rsi": "0000000000000000"
+  }
+ },
+ {
+  "data": "490FB6FF",
+  "inputs": {
+   "r15": "0100000000000080",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx rdi, r15b",
+  "outputs": {
+   "rdi": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6C7",
+  "inputs": {
+   "r15": "00000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r8, r15b",
+  "outputs": {
+   "r8": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6CF",
+  "inputs": {
+   "r15": "01000080FFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r9, r15b",
+  "outputs": {
+   "r9": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6D7",
+  "inputs": {
+   "r15": "FF7FFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r10, r15b",
+  "outputs": {
+   "r10": "FF00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6DF",
+  "inputs": {
+   "r15": "0080FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r11, r15b",
+  "outputs": {
+   "r11": "0000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6E7",
+  "inputs": {
+   "r15": "0180FFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r12, r15b",
+  "outputs": {
+   "r12": "0100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6EF",
+  "inputs": {
+   "r15": "7FFFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r13, r15b",
+  "outputs": {
+   "r13": "7F00000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6F7",
+  "inputs": {
+   "r15": "80FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r14, r15b",
+  "outputs": {
+   "r14": "8000000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ },
+ {
+  "data": "4D0FB6FF",
+  "inputs": {
+   "r15": "81FFFFFFFFFFFFFF",
+   "rip": "E607C9EFF77F0000"
+  },
+  "instr": "movzx r15, r15b",
+  "outputs": {
+   "r15": "8100000000000000",
+   "rip": "FC07C9EFF77F0000"
+  }
+ }
+]
